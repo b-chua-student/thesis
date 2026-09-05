@@ -310,7 +310,7 @@ Players are equipped with both reactive and proactive intervention tools designe
 
 **Programming Language and IDE.** The core disease simulation algorithm and game logic were implemented using a programming language balancing efficiency with readability, that is compatible with the chosen game engine. Code authoring and debugging were conducted using open-source IDEs or text editors under public licenses or domains. The game logic scripts were created under strict guidelines to be modular, scalable, and maintainable, ensuring decoupled components with a clear separation of concerns.
 
-**Visual Asset Production.** Graphical assets were developed utilizing open-source digital art software to establish the game's visual identity. LibreSprite was utilized for the creation of localized sprite assets and frame-by-frame animations. Krita was employed for generating high-resolution user interface elements, promotional graphics, and complex textures, ensuring visual clarity and responsive scaling on mobile displays.
+**Visual Asset Production.** Graphical assets, including characters, environments, and interface elements, were developed using open-source digital art software to establish the game's visual identity.
 
 **Version Control System**. Unity Version Control was implemented to manage the iterative Design and Development Research (DDR) lifecycle. Unity’s built-in version control system established a comprehensive audit of code modifications, algorithmic adjustments, and asset iterations throughout the mobile game’s development. It facilitated structured versioning, safeguarding project stability and maintaining the rigorous reproducibility standards required for academic research.
 
