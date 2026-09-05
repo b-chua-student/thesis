@@ -70,7 +70,7 @@ The study aims to explore suitable epidemiological models to identify an optimiz
 
 ## **Statement of the Problem**
 
-This study aims to evaluate the current understanding and level of awareness of crop disease epidemiology among undergraduate students. Furthermore, it proposes the development of an optimized, mobile gamification application as a potential solution to address these gaps. The following were the specific queries the study answered:
+This study aims to evaluate the current understanding and level of awareness of crop disease epidemiology among undergraduate students. Furthermore, it proposes the development of an optimized, mobile game application as a potential solution to address these gaps. The following were the specific queries the study answered:
 
 1. What is the level of awareness regarding crop disease epidemiology among undergraduate students?
 2. What algorithms are best suited for crop epidemic modelling on resource-constrained mobile devices widely available to undergraduate students?
