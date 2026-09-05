@@ -312,7 +312,7 @@ Players are equipped with both reactive and proactive intervention tools designe
 
 **Visual Asset Production.** Graphical assets, including characters, environments, and interface elements, were developed using open-source digital art software to establish the game's visual identity.
 
-**Version Control System**. Unity Version Control was implemented to manage the iterative Design and Development Research (DDR) lifecycle. Unity’s built-in version control system established a comprehensive audit of code modifications, algorithmic adjustments, and asset iterations throughout the mobile game’s development. It facilitated structured versioning, safeguarding project stability and maintaining the rigorous reproducibility standards required for academic research.
+**Version Control System**. Open-source, non-proprietary version control systems were used during development to manage the iterative Design and Development Research (DDR) lifecycle. The version control system was utilized to establish a comprehensive audit of code modifications, algorithmic adjustments, and asset iterations throughout the mobile game’s development. It also facilitated structured versioning, safeguarding project stability and maintaining the rigorous reproducibility standards required for academic research.
 
 **Target Platform and Build Configuration.** The build environment was explicitly configured to target the Android operating system. The integration of Android Software Development Kits (SDKs) and Native Development Kits (NDKs) ensured the mobile game’s accessibility for the participants of the study by being compatible across a diverse range of mobile hardware.
 
