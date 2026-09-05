@@ -103,7 +103,7 @@ The following stakeholders will directly benefit from the results of this study:
 
 **Agricultural Agencies and Educators.** For agricultural institutions and educators, this study introduces a modern, gamified medium for information dissemination. The localized focus on rice, sugarcane, and corn diseases provides these stakeholders with an interactive supplemental tool that can be used to easily explain complex disease transmission vectors and crop management methods to younger generations.
 
-**Future Researchers.** The study holds importance for future researchers as it provides a baseline for designing and evaluating the usability and user acceptance of mathematical-based gamified applications. The findings offer valuable data on crop disease spread patterns for rice, corn, and sugarcane, and provide a scalable logic model that can be expanded to include different climatic zones or more advanced technologies like VR and AR.
+**Future Researchers.** The study holds importance for future researchers as it provides a baseline for designing and evaluating the usability of mathematical-based gamified applications. The findings offer valuable data on crop disease spread patterns for rice, corn, and sugarcane, and provide a scalable logic model that can be expanded to include different climatic zones or more advanced technologies like VR and AR.
 
 ## **Definition of Terms**
 
