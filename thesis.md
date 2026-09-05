@@ -308,7 +308,7 @@ Players are equipped with both reactive and proactive intervention tools designe
 
 **Game Engine.** While the selected game engine must prioritize cross-platform compatibility, extensive documentation, and a robust development ecosystem, it currently remains open for exploration.
 
-**Programming Language and IDE.** The core disease simulation algorithm and game logic were implemented using C\#. Code authoring and debugging were conducted within Visual Studio Code (VSCode), selected for its lightweight footprint and extensibility. The C\# scripts were created under strict guidelines to be modular, scalable, and maintainable, ensuring decoupled components with a clear separation of concerns.
+**Programming Language and IDE.** The core disease simulation algorithm and game logic were implemented using a programming language balancing efficiency with readability, that is compatible with the chosen game engine. Code authoring and debugging were conducted using open-source IDEs or text editors under public licenses or domains. The game logic scripts were created under strict guidelines to be modular, scalable, and maintainable, ensuring decoupled components with a clear separation of concerns.
 
 **Visual Asset Production.** Graphical assets were developed utilizing open-source digital art software to establish the game's visual identity. LibreSprite was utilized for the creation of localized sprite assets and frame-by-frame animations. Krita was employed for generating high-resolution user interface elements, promotional graphics, and complex textures, ensuring visual clarity and responsive scaling on mobile displays.
 
