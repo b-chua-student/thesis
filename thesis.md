@@ -229,7 +229,7 @@ The second instrument utilizes a semi-structured interview that targets technica
 
 The third instrument consists of a researcher-made Usability Evaluation Likert-scale survey administered to the participants to assess the developed educational game. This instrument utilizes a ten-item, five-point Likert scale adapted from the System Usability Scale, Game Experience Questionnaire, and CAP Perceived Learning scale to measure the overall usability of the educational mobile game in terms of its playability and educational value.
 
-To ensure the validity and reliability of the researcher-made portion of the usability testing instrument, the questionnaire will undergo content validation through expert review by the research adviser.
+To ensure the validity and reliability of the researcher-made instruments, the questionnaire will undergo content validation through expert review by at least three (3) qualified reviewers.
 
 ## **Data Gathering Procedure**
 
