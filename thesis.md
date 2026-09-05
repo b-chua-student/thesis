@@ -227,7 +227,7 @@ For the first instrument, a quantitative researcher-made awareness assessment su
 
 The second instrument utilizes a semi-structured interview that targets technical domain experts, such as game developers, computer science experts, or mathematics experts, to gather qualitative insight on the implementation of the algorithm and game mechanics, and the overall design of the game system.
 
-The third component consists of a  mixed-methods Usability and Engagement Evaluation administered to the participants to evaluate the developed educational game. This instrument integrated a hybrid design, utilizing a standardized System Usability Scale (SUS), a ten-item, five-point Likert scale to measure software usability, alongside a supplemental block of researcher-made questions to measure Content Accuracy and Educational Impact specific to agriculture awareness
+The third instrument consists of a research-made Usability Evaluation Likert-scale survey administered to the participants to assess the developed educational game. This instrument utilizes a ten-item, five-point Likert scale adapted from the System Usability Scale, Game Experience Questionnaire, and CAP Perceived Learning scale to measure the overall usability of the educational mobile game in terms of its playability and educational value.
 
 To ensure the validity and reliability of the researcher-made portion of the usability testing instrument, the questionnaire will undergo content validation through expert review by the research adviser. In addition, pilot testing will be conducted using a group of students not included in the final sample. The internal consistency of the instrument will be measured using Cronbach’s Alpha to determine reliability.
 
