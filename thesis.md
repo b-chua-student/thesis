@@ -1,5 +1,3 @@
-
-
 # **SPOREFELD: GAMIFIED CROP DISEASE SIMULATION USING BASIC SMARTPHONES**
 
 A Thesis Presented to
@@ -27,8 +25,8 @@ May 7, 2026
 **JOSEPH MARK ANTHONY HUELGAS**
 Chair
 
-| LORETO DAMASCO, Ph.D Member |  | ANDREW GEM LORENZ CABAHUG Member |
-| :---: | :---: | :---: |
+| LORETO DAMASCO, Ph.D Member |     | ANDREW GEM LORENZ CABAHUG Member |
+|:---------------------------:|:---:|:--------------------------------:|
 
 **EISCHIED ARCENAL, Ph.D**
 Adviser
@@ -39,28 +37,28 @@ Adviser
 
 Page
 
-| TITLE PAGE APPROVAL SHEET THESIS ADVISER ENDORSEMENT LETTER TABLE OF CONTENTS  LIST OF FIGURES LIST OF TABLES INTRODUCTION Background of the Study Statement of the Problem Conceptual Framework Scope and Limitations Significance of the Study Definition of Terms Review of Related Literature METHODS 	Research Design Participants of the Study Research Instrument Data-Gathering Procedure Statistical Treatment Design Implementation Test Ethical Considerations REFERENCE | i ii iii iv v vi 1 1 2 3 4 5 6 9 21 21 22 23 24 25 28 31 32 33 35 |
-| :---- | ----: |
+| TITLE PAGE APPROVAL SHEET THESIS ADVISER ENDORSEMENT LETTER TABLE OF CONTENTS  LIST OF FIGURES LIST OF TABLES INTRODUCTION Background of the Study Statement of the Problem Conceptual Framework Scope and Limitations Significance of the Study Definition of Terms Review of Related Literature METHODS     Research Design Participants of the Study Research Instrument Data-Gathering Procedure Statistical Treatment Design Implementation Test Ethical Considerations REFERENCE | i ii iii iv v vi 1 1 2 3 4 5 6 9 21 21 22 23 24 25 28 31 32 33 35 |
+|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -----------------------------------------------------------------:|
 
 **LIST OF FIGURES**
 
-| Figure | Page |
-| :---- | ----- |
-| Figure 1: Conceptual framework | 3 |
-| Figure 2: PRISMA flow Diagram | 10 |
-| Figure 3: System Architecture Diagram | 28 |
-| Figure 4: Game Mechanic Diagram | 30 |
+| Figure                                | Page |
+|:------------------------------------- | ---- |
+| Figure 1: Conceptual framework        | 3    |
+| Figure 2: PRISMA flow Diagram         | 10   |
+| Figure 3: System Architecture Diagram | 28   |
+| Figure 4: Game Mechanic Diagram       | 30   |
 
 **LIST OF TABLES**
 
-| Table | Page |
-| :---- | ----- |
-| Table 1: Summary of Related Literature | 10 |
-| Table 2: Application of the SIR/SIRS Model in the Study | 19 |
-| Table 3: Likert-Scale Interpretation | 26 |
-| Table 4: Cronbach’s Alpha Reliability Interpretation | 26 |
-| Table 5: System Usability Scale (SUS) Score Interpretation | 27 |
-|  |  |
+| Table                                                      | Page |
+|:---------------------------------------------------------- | ---- |
+| Table 1: Summary of Related Literature                     | 10   |
+| Table 2: Application of the SIR/SIRS Model in the Study    | 19   |
+| Table 3: Likert-Scale Interpretation                       | 26   |
+| Table 4: Cronbach’s Alpha Reliability Interpretation       | 26   |
+| Table 5: System Usability Scale (SUS) Score Interpretation | 27   |
+|                                                            |      |
 
 # **INTRODUCTION**
 
@@ -78,7 +76,6 @@ This study aims to evaluate the current understanding of crop disease epidemiolo
 2. What algorithms achieve scientifically accurate crop epidemic modelling while being optimized for resource-hardware mobile devices widely available to undergraduate students?
 3. What technology stack allows an efficient and optimized implementation of realistic crop epidemic modelling for mobile devices and platforms accessible to our target users?
 4. What is the level of usability of the crop disease educational mobile game among undergraduate students in terms of engagement and content relevance?
-
 
 ## **Conceptual Framework**
 
@@ -124,7 +121,7 @@ To ensure a common understanding of the technical and contextual elements of thi
 
 **Content Relevance.** \- Conceptually refers to the degree to which educational materials and activities are perceived as personally meaningful, applicable, and aligned with a learner's real-world goals or interests, which, when grounded in instructional frameworks like the ARCS model, is essential for sustaining student motivation (Christopoulos & Mystakidis, 2023). Within the scope of this study, content relevance is operationally defined as the direct applicability of the in-game agricultural scenarios to the real-world context of the respondents. This is achieved through localized data focused on the most prevalent diseases affecting the three major crops in Bacolod City (Rice, Sugarcane, and Corn). The realism, scientific accuracy, and practical usefulness of the simulation is measured using a researcher-made survey that has undergone content validation by a panel of subject matter experts and reliability testing via a pilot study, yielding a Cronbach’s alpha coefficient that confirms its internal consistency and technical accuracy.
 
-	**Roguing. \-** Conceptually refers to a management strategy that involves the manual removal of atypical plants. It highlights that by reducing the presence of undesirable plants, roguing directly lowers inoculum pressure and minimizes the exposure of healthy plants to pathogens (Cotaet et al., 2025).  Within the context of the study, roguing refers to an active player-intervention mechanic. It allows the user to manually select a crop tile currently in the Infected (*I*) state and remove it from the simulation grid. This action immediately forces the selected tile to transition into the Recovered/Removed (*R*) state, thereby eliminating it as a localized source of disease transmission and actively reducing the simulation's basic reproduction number (*R0*).
+    **Roguing. \-** Conceptually refers to a management strategy that involves the manual removal of atypical plants. It highlights that by reducing the presence of undesirable plants, roguing directly lowers inoculum pressure and minimizes the exposure of healthy plants to pathogens (Cotaet et al., 2025).  Within the context of the study, roguing refers to an active player-intervention mechanic. It allows the user to manually select a crop tile currently in the Infected (*I*) state and remove it from the simulation grid. This action immediately forces the selected tile to transition into the Recovered/Removed (*R*) state, thereby eliminating it as a localized source of disease transmission and actively reducing the simulation's basic reproduction number (*R0*).
 
 ## **Review of Related Literature**
 
@@ -135,33 +132,33 @@ The selection of literature followed a rigorous multi-stage screening process gu
 
 Table 1: Summary of Related Literature
 
-| Citation | Study Design | Source | Description |
-| ----- | ----- | :---: | ----- |
-| Adamopoulos et al. (2025)  | Epidemiological simulation study  | Mesopotamian Journal of Artificial Intelligence in Healthcare | Applied graph theory algorithms in analyzing infection dynamics of COVID-19.  |
-| Amanova et al. (2026)  | Computational simulation study  | Applied Sciences | Integrated stochastic SIRS modeling with computer vision-based agricultural robotics.  |
-| Bashabsheh (2025)  | Computational simulation study  | International Journal of Mathematical, Engineering and Management Sciences  | Combined stochastic compartmentalization and cellular automata for epidemic spread simulation.  |
-| Bassanelli et al. (2025) | Systematic literature review | Acta Psychologica | Analyzed gamification as a persuasive strategy for behavioral change and engagement. |
-| Benson et al. (2021) | Epidemiological simulation study | PLOS Computational Biology | Examined direct transmission models for environmentally persistent pathogens.  |
-| Best & Cunniffe (2026)  | Mathematical modeling study  | PLOS Computational Biology | Applied a lattice-based mathematical modeling approach to analyze the local and global transmission dynamics of Bahia bark scaling of citrus.  |
-| Boncu et al. (2022)  | Systematic literature review | Sustainability | Reviewed gamified applications for environmental awareness and behavior change.  |
-| Braydent & Fajar (2025)  | Quantitative evaluation study | BIO Web of Conferences | Developed a 3D farming simulation game to raise awareness regarding food crises and agriculture.  |
-| Chandran et al. (2025)  | Comprehensive literature review  | Journal of Sustainable Technology in Agriculture | Reviewed mathematical modeling approaches for plant disease epidemic curves.   |
-| Chapman et al. (2025)  | Computational simulation study  | PLOS Computational Biology | Simulated containment strategies for Xylella fastidiosa plant disease spread.  |
-| De Silva et al. (2026)  | Mixed-methods study | International Journal of Advanced Computer Science and Applications | Developed an offline mobile learning system integrating augmented reality, artificial intelligence, and game-based learning for agriculture education.  |
-| Dernat et al. (2025)  |  | Agricultural Systems | Evaluated serious games used in agricultural education and sustainability.  |
-| Fantaye et al. (2025)  | Mathematical modeling study  | Scientific Reports | Proposed and analyzed a compartmental mathematical model to describe the transmission dynamics of wheat yellow rust disease on wheat crops and evaluate the effectiveness of fungicide treatments.  |
-| Faturohman et al. (2023)  | Descriptive Survey | Review of Integrative Business and Economics Research | Studied youth perceptions and attitudes toward agriculture.  |
-| González-Domínguez et al. (2020)  | Epidemiological simulation study  | Agronomy | Developed a general mathematical model to simulate the impact of various crop management practices on the progress of polycyclic plant disease epidemics.  |
-| Gutiérrez-Jara et al. (2023)  | Mathematical modeling study | Plants | Modeled agricultural mitigation measures against the spread of Sharka disease in sweet cherry orchards.  |
-| Huancas et al. (2024)  | Mathematical modeling study | Mathematical Biosciences and Engineering | Presented a mathematical model to describe the seasonal spread of flavescence dorée in grapevines, aiming to improve epidemiological understanding and disease management strategies.  |
-| Ochwach et al. (2025) | Mathematical modeling study  | Journal of Mathematical Analysis and Modeling | Proposed and analyzed a compartmental mathematical model to describe the transmission dynamics of wheat yellow rust disease on wheat crops and evaluate the effectiveness of fungicide treatments. |
-| Melikechi et al. (2022) | Mathematical modeling study | Journal of Mathematical Biology | Provided novel theoretical insights into the limits of epidemic prediction using the Susceptible-Infectious-Recovered (SIR) model, specifically focusing on the practical identifiability of model parameters based on noisy data gathered early in an outbreak.   |
-| Mercado & Osbahr (2023) | Descriptive Case Study | Asian Journal of Agriculture and Development | Utilized a descriptive case study approach in analyzing the factors influencing Filipino youth's intention to pursue agricultural careers. |
-| Nishihata et al. (2023) | Mathematical modeling study  | Applied Sciences | Proposed a novel epidemiological model integrating evolutionary game theory to predict infection dynamics and forecast pharmaceutical demand for inventory management.  |
-| Shukla et al. (2026) | Descriptive Research | Journal of Experimental Agriculture International | Employed a descriptive research design using simple random sampling to assess the levels of awareness, knowledge, and sociodemographic associations regarding natural farming among agricultural postgraduate students.  |
-| Tresna et al. (2023) | Systematic literature review  | Jambura Journal of Biomathematics | Conducted a systematic literature review to analyze mathematical models for plant disease transmission.  |
-| Wang et al. (2025) | Mathematical modeling study  | PLOS ONE | Proposed a mathematical model based on behavioral game theory on a two-layer network to analyze the dynamic interaction between individual protective behaviors and the spread of infectious diseases.  |
-| Yang & Ding (2022) | Epidemiological simulation study  | Frontiers in Plant Science | Developed simulation algorithms and a time-varying generic model to visualize the appearance and dynamic spread of various plant diseases based on their symptom classifications.  |
+| Citation                         | Study Design                     | Source                                                                     | Description                                                                                                                                                                                                                                                      |
+| -------------------------------- | -------------------------------- |:--------------------------------------------------------------------------:| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Adamopoulos et al. (2025)        | Epidemiological simulation study | Mesopotamian Journal of Artificial Intelligence in Healthcare              | Applied graph theory algorithms in analyzing infection dynamics of COVID-19.                                                                                                                                                                                     |
+| Amanova et al. (2026)            | Computational simulation study   | Applied Sciences                                                           | Integrated stochastic SIRS modeling with computer vision-based agricultural robotics.                                                                                                                                                                            |
+| Bashabsheh (2025)                | Computational simulation study   | International Journal of Mathematical, Engineering and Management Sciences | Combined stochastic compartmentalization and cellular automata for epidemic spread simulation.                                                                                                                                                                   |
+| Bassanelli et al. (2025)         | Systematic literature review     | Acta Psychologica                                                          | Analyzed gamification as a persuasive strategy for behavioral change and engagement.                                                                                                                                                                             |
+| Benson et al. (2021)             | Epidemiological simulation study | PLOS Computational Biology                                                 | Examined direct transmission models for environmentally persistent pathogens.                                                                                                                                                                                    |
+| Best & Cunniffe (2026)           | Mathematical modeling study      | PLOS Computational Biology                                                 | Applied a lattice-based mathematical modeling approach to analyze the local and global transmission dynamics of Bahia bark scaling of citrus.                                                                                                                    |
+| Boncu et al. (2022)              | Systematic literature review     | Sustainability                                                             | Reviewed gamified applications for environmental awareness and behavior change.                                                                                                                                                                                  |
+| Braydent & Fajar (2025)          | Quantitative evaluation study    | BIO Web of Conferences                                                     | Developed a 3D farming simulation game to raise awareness regarding food crises and agriculture.                                                                                                                                                                 |
+| Chandran et al. (2025)           | Comprehensive literature review  | Journal of Sustainable Technology in Agriculture                           | Reviewed mathematical modeling approaches for plant disease epidemic curves.                                                                                                                                                                                     |
+| Chapman et al. (2025)            | Computational simulation study   | PLOS Computational Biology                                                 | Simulated containment strategies for Xylella fastidiosa plant disease spread.                                                                                                                                                                                    |
+| De Silva et al. (2026)           | Mixed-methods study              | International Journal of Advanced Computer Science and Applications        | Developed an offline mobile learning system integrating augmented reality, artificial intelligence, and game-based learning for agriculture education.                                                                                                           |
+| Dernat et al. (2025)             |                                  | Agricultural Systems                                                       | Evaluated serious games used in agricultural education and sustainability.                                                                                                                                                                                       |
+| Fantaye et al. (2025)            | Mathematical modeling study      | Scientific Reports                                                         | Proposed and analyzed a compartmental mathematical model to describe the transmission dynamics of wheat yellow rust disease on wheat crops and evaluate the effectiveness of fungicide treatments.                                                               |
+| Faturohman et al. (2023)         | Descriptive Survey               | Review of Integrative Business and Economics Research                      | Studied youth perceptions and attitudes toward agriculture.                                                                                                                                                                                                      |
+| González-Domínguez et al. (2020) | Epidemiological simulation study | Agronomy                                                                   | Developed a general mathematical model to simulate the impact of various crop management practices on the progress of polycyclic plant disease epidemics.                                                                                                        |
+| Gutiérrez-Jara et al. (2023)     | Mathematical modeling study      | Plants                                                                     | Modeled agricultural mitigation measures against the spread of Sharka disease in sweet cherry orchards.                                                                                                                                                          |
+| Huancas et al. (2024)            | Mathematical modeling study      | Mathematical Biosciences and Engineering                                   | Presented a mathematical model to describe the seasonal spread of flavescence dorée in grapevines, aiming to improve epidemiological understanding and disease management strategies.                                                                            |
+| Ochwach et al. (2025)            | Mathematical modeling study      | Journal of Mathematical Analysis and Modeling                              | Proposed and analyzed a compartmental mathematical model to describe the transmission dynamics of wheat yellow rust disease on wheat crops and evaluate the effectiveness of fungicide treatments.                                                               |
+| Melikechi et al. (2022)          | Mathematical modeling study      | Journal of Mathematical Biology                                            | Provided novel theoretical insights into the limits of epidemic prediction using the Susceptible-Infectious-Recovered (SIR) model, specifically focusing on the practical identifiability of model parameters based on noisy data gathered early in an outbreak. |
+| Mercado & Osbahr (2023)          | Descriptive Case Study           | Asian Journal of Agriculture and Development                               | Utilized a descriptive case study approach in analyzing the factors influencing Filipino youth's intention to pursue agricultural careers.                                                                                                                       |
+| Nishihata et al. (2023)          | Mathematical modeling study      | Applied Sciences                                                           | Proposed a novel epidemiological model integrating evolutionary game theory to predict infection dynamics and forecast pharmaceutical demand for inventory management.                                                                                           |
+| Shukla et al. (2026)             | Descriptive Research             | Journal of Experimental Agriculture International                          | Employed a descriptive research design using simple random sampling to assess the levels of awareness, knowledge, and sociodemographic associations regarding natural farming among agricultural postgraduate students.                                          |
+| Tresna et al. (2023)             | Systematic literature review     | Jambura Journal of Biomathematics                                          | Conducted a systematic literature review to analyze mathematical models for plant disease transmission.                                                                                                                                                          |
+| Wang et al. (2025)               | Mathematical modeling study      | PLOS ONE                                                                   | Proposed a mathematical model based on behavioral game theory on a two-layer network to analyze the dynamic interaction between individual protective behaviors and the spread of infectious diseases.                                                           |
+| Yang & Ding (2022)               | Epidemiological simulation study | Frontiers in Plant Science                                                 | Developed simulation algorithms and a time-varying generic model to visualize the appearance and dynamic spread of various plant diseases based on their symptom classifications.                                                                                |
 
 **Student Awareness and Attitude Toward Agriculture**
 Currently, the agricultural sector is experiencing a generational crisis, as younger generations are losing interest in learning or pursuing farming and agricultural sciences. Mercado and Osbahr (2023) emphasize that while the younger generations are critical to building a sustainable, resilient, and inclusive agricultural industry, their intent to learn in the agriculture sector remains low. Their study highlights that younger generations often view the agricultural sector as physically demanding and low-income, rather than as a viable profession. This lack of interest does not necessarily imply a total lack of exposure to agricultural information. Mercado and Osbahr (2023) further emphasize that the youth reports have high levels of exposure to agricultural information. However, this has not been effectively applied to a genuine academic pursuit. This highlights the gap between basic awareness and practicality, indicating that traditional methods of agricultural knowledge are insufficient.
@@ -182,12 +179,12 @@ Despite the broad scientific support of the SIR model for predicting crop diseas
 
 Table 2: Application of the SIR/SIRS Model in the Study
 
-| Model Variable | Standard Theoretical Definition | Application in the Study |
-| ----- | ----- | ----- |
-| **Susceptible (*S*)**  | Individuals in a population who are currently healthy but can catch the disease.  | Represents the healthy crop units vulnerable to diseases |
-| **Infected (*I*)**  | Individuals who have contracted the disease and are capable of transmitting it.  | Represents diseased units capable of spreading the pathogen to adjacent cells or plots |
-| **Recovered (*R*)** | Individuals who have recovered from the disease and developed immunity (or died).  | Signifies units that are either harvested, destroyed, or have reached a state of immunity after fighting a prior infection and are no longer capable of spreading the disease. |
-| **Transmission Rate (*β*)** | The rate at which a susceptible individual becomes infected.  | The rate or probability at which a healthy crop unit (Susceptible) becomes infected upon contact with a pathogen, modulated by environmental variables (such as high humidity or rain) and the proximity to already infected neighboring plots. |
+| Model Variable              | Standard Theoretical Definition                                                   | Application in the Study                                                                                                                                                                                                                        |
+| --------------------------- | --------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Susceptible (*S*)**       | Individuals in a population who are currently healthy but can catch the disease.  | Represents the healthy crop units vulnerable to diseases                                                                                                                                                                                        |
+| **Infected (*I*)**          | Individuals who have contracted the disease and are capable of transmitting it.   | Represents diseased units capable of spreading the pathogen to adjacent cells or plots                                                                                                                                                          |
+| **Recovered (*R*)**         | Individuals who have recovered from the disease and developed immunity (or died). | Signifies units that are either harvested, destroyed, or have reached a state of immunity after fighting a prior infection and are no longer capable of spreading the disease.                                                                  |
+| **Transmission Rate (*β*)** | The rate at which a susceptible individual becomes infected.                      | The rate or probability at which a healthy crop unit (Susceptible) becomes infected upon contact with a pathogen, modulated by environmental variables (such as high humidity or rain) and the proximity to already infected neighboring plots. |
 
 #
 
@@ -259,33 +256,33 @@ For evaluating the overall usability of the mobile application during Phase 3, t
 Table 3: Likert-Scale Interpretation
 
 | Scale | Mean Score Range | Verbal Interpretation |
-| ----- | ----- | :---- |
-| 5 | 4.21 \- 5.00 | Strongly Agree |
-| 4 | 3.41 \- 4.00 | Agree |
-| 3 | 2.61 \- 3.40 | Neutral |
-| 2 | 1.81 \- 2.60 | Disagree |
-| 1 | 1.00 \- 1.80 | Strongly Disagree |
+| ----- | ---------------- |:--------------------- |
+| 5     | 4.21 \- 5.00     | Strongly Agree        |
+| 4     | 3.41 \- 4.00     | Agree                 |
+| 3     | 2.61 \- 3.40     | Neutral               |
+| 2     | 1.81 \- 2.60     | Disagree              |
+| 1     | 1.00 \- 1.80     | Strongly Disagree     |
 
 Table 4 : Cronbach’s Alpha Reliability Interpretation (George & Mallery, 2003\)
 
 | Coefficient of Cronbach’s Alpha | Reliability Level |
-| ----- | :---- |
-| 0.90 \- 1.00 | Excellent |
-| 0.80 \- 0.89 | Good |
-| 0.70 \- 0.79 | Acceptable |
-| 0.60 \- 0.69 | Questionable |
-| 0.50 \- 0.59 | Poor |
-| Below 0.50 | Unacceptable |
+| ------------------------------- |:----------------- |
+| 0.90 \- 1.00                    | Excellent         |
+| 0.80 \- 0.89                    | Good              |
+| 0.70 \- 0.79                    | Acceptable        |
+| 0.60 \- 0.69                    | Questionable      |
+| 0.50 \- 0.59                    | Poor              |
+| Below 0.50                      | Unacceptable      |
 
 Table 5: System Usability Scale (SUS) Score Interpretation (Bangor et al., 2009\)
 
 | SUS Score Range | Acceptability Range |
-| ----- | :---- |
-| 85.0 \- 100.0 | Acceptable |
-| 70.0 \- 84.9 | Acceptable |
-| 50.0 \- 69.9 | Marginal |
-| 35.0 \- 49.9 | Unacceptable |
-| Below 34.9 | Unacceptable |
+| --------------- |:------------------- |
+| 85.0 \- 100.0   | Acceptable          |
+| 70.0 \- 84.9    | Acceptable          |
+| 50.0 \- 69.9    | Marginal            |
+| 35.0 \- 49.9    | Unacceptable        |
+| Below 34.9      | Unacceptable        |
 
 ## **Design**
 
@@ -299,12 +296,11 @@ Table 5: System Usability Scale (SUS) Score Interpretation (Bangor et al., 2009\
 
 *Figure 4: Game Mechanic Diagram*
 
-
 **Game Mechanics.** The mobile game operates on a turn-based system where the game field ‘ticks’ at the end of the player’s turn, which allows for the observation of the disease spread at a controlled pace. Each level represents a two-year simulation period, divided into in-game days that includes one player turn and one field simulation tick.
 
 Players are equipped with both reactive and proactive intervention tools designed to strategically mitigate disease propagation. Reactive measures include manual *roguing* to isolate an infected crop and applying targeted fungicides to decrease local transmission rates. Proactive measures include deploying physical barriers or traps to intercept agents of vector-based diseases, such as insects, and applying enhancers to increase the disease resilience of crops. These interventions also influence the plant recovery period, determining the duration required for treated crops to transition from an infected state back to health and restore their contribution to the final yield. The effectiveness of the player’s disease management strategy is quantified by the final harvest yield calculated at the end of each level, where players are awarded based on a three-star scoring system based on quota achievement. Total loss of the crop population due to infection results in an immediate level failure.
-	The game design is anchored to the ARCS Model of Motivation: Attention is captured through immediate visual feedback and animations; Relevance is established by simulating real-world epidemiological challenges; Confidence is built through iterative learning and the predictable turn-based structure; and Satisfaction is achieved via the cumulative scoring system and the mastery of long-term field stability.
-	Players primarily learn through the experience of repeated interactions with the mobile game simulation. When a player makes a mistake, such as applying the wrong treatment type for a disease, the game provides immediate feedback through visual cues, effects, and animations while also illustrating long-term consequences as deteriorating field conditions over time. Player mistakes accumulate and are ultimately reflected in the player’s final score and star rating.
+    The game design is anchored to the ARCS Model of Motivation: Attention is captured through immediate visual feedback and animations; Relevance is established by simulating real-world epidemiological challenges; Confidence is built through iterative learning and the predictable turn-based structure; and Satisfaction is achieved via the cumulative scoring system and the mastery of long-term field stability.
+    Players primarily learn through the experience of repeated interactions with the mobile game simulation. When a player makes a mistake, such as applying the wrong treatment type for a disease, the game provides immediate feedback through visual cues, effects, and animations while also illustrating long-term consequences as deteriorating field conditions over time. Player mistakes accumulate and are ultimately reflected in the player’s final score and star rating.
 
 **Implementation**
 
