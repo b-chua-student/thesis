@@ -221,7 +221,7 @@ The study requires a secondary group of expert participants to validate the syst
 
 ## **Research Instrument**
 
-In the design of the research instrument, the study will utilize a multi-component approach to gather the baseline requirements, validate technical and domain accuracy, and practical usability of the application for the intended users.
+In the design of the research instrument, the study will utilize 3 instruments.
 
 The instrument consists of three major components. The first component consists of a quantitative researcher-made needs assessment survey provided to undergraduate students. This instrument is designed to map the baseline level of awareness regarding crop disease epidemiology, which will directly serve as the baseline requirements for the game mechanics and educational aspects of the game.
 
