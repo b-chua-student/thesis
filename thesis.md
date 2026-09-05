@@ -223,7 +223,7 @@ The study requires a secondary group of expert participants to validate the syst
 
 In the design of the research instrument, the study will utilize 3 instruments.
 
-The instrument consists of three major components. The first component consists of a quantitative researcher-made needs assessment survey provided to undergraduate students. This instrument is designed to map the baseline level of awareness regarding crop disease epidemiology, which will directly serve as the baseline requirements for the game mechanics and educational aspects of the game.
+For the first instrument, a quantitative researcher-made awareness assessment survey will be administered to undergraduate students to establish their baseline level of awareness regarding crop disease epidemiology. A supplementary interview with agricultural experts, from within or outside USLS, will then be conducted mainly to validate the content of the game mechanics, particularly the relevance of the crops, their diseases, and prevention methods represented in the game. Together, the results of both approaches will directly serve as the baseline requirements for the development of the game mechanics and educational content.
 
 The second component utilizes a qualitative approach that targets the domain and technical experts to shape and refine the system logic. For scientific accuracy, content validation surveys will be provided to an expert from the agriculture sector to validate locally utilized management methods for crop diseases. Concurrently, technical evaluation will be provided to an IT/Computer Science expert to assess the feasibility, efficiency, and optimization constraints of the proposed algorithmic framework and technology stacks.
 
