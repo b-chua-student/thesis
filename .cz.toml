@@ -1,0 +1,46 @@
+[tool.commitizen]
+name = "cz_customize"
+use_shortcuts = true
+
+[tool.commitizen.customize]
+message_template = "{{change_type}}{% if scope %}({{scope}}){% endif %}: {{subject}}{% if body %}\n\n{{body}}{% endif %}{% if footer %}\n\n{{footer}}{% endif %}"
+example = "write: add chapter 3 methodology section"
+schema = "<type>(<scope>): <subject>\n\n<body>\n\n<footer>"
+schema_pattern = "(write|revise|cite|data|fix|structure|review|meta|remove|chore)(\\(\\S+\\))?:(\\s.*)"
+
+[[tool.commitizen.customize.questions]]
+type = "list"
+name = "change_type"
+message = "Select the type of change you are committing:"
+choices = [
+    { value = "write", name = "write: New content or sections", key = "w"},
+    { value = "revise", name = "revise: Rewording or restructuring existing text", key = "r" },
+    { value = "cite", name = "cite: Add or fix citations/references", key = "c" },
+    { value = "data", name = "data: Results, figures, tables, analysis", key = "d" },
+    { value = "fix", name = "fix: Typos, grammar, formatting errors", key = "f" },
+    { value = "structure", name = "structure: Reorganize chapters/sections", key = "s" },
+    { value = "review", name = "review: Incorporate advisor/reviewer feedback", key = "v" },
+    { value = "meta", name = "meta: Abstract, acknowledgments, title page, etc.", key = "m" },
+    { value = "remove", name = "remove: Delete content, sections, or citations", key = "x" },
+    { value = "chore", name = "chore: Tooling, config, or repo maintenance changes", key = "z" }
+]
+
+[[tool.commitizen.customize.questions]]
+type = "input"
+name = "scope"
+message = "What is the scope of this change? (chapter or sub-chapter): (press [enter] to skip)"
+
+[[tool.commitizen.customize.questions]]
+type = "input"
+name = "subject"
+message = "Write a short imperative summary of the changes: (lower case and no period)"
+
+[[tool.commitizen.customize.questions]]
+type = "input"
+name = "body"
+message = "Provide additional contextual information about the changes: (press [enter] to skip):"
+
+[[tool.commitizen.customize.questions]]
+type = "input"
+name = "footer"
+message = "Footer, e.g. references or notes (press [enter] to skip):"
