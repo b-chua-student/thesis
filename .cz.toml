@@ -3,7 +3,7 @@ name = "cz_customize"
 use_shortcuts = true
 
 [tool.commitizen.customize]
-message_template = "{{change_type}}{% if scope %}({{scope}}){% endif %}: {{subject}}{% if body %}\n\n{{body}}{% endif %}{% if footer %}\n\n{{footer}}{% endif %}"
+message_template = "{{change_type}}{% if scope %}({{scope}}){% endif %}: {{subject}}{% if body %}\n\n{{body}}{% endif %}{% if footer %}\n\n{{footer}}{% endif %}{% if issue %}\n\nCloses #{{issue}}{% endif %}"
 example = "write: add chapter 3 methodology section"
 schema = "<type>(<scope>): <subject>\n\n<body>\n\n<footer>"
 schema_pattern = "(write|revise|cite|data|fix|structure|review|meta|remove|chore)(\\(\\S+\\))?:(\\s.*)"
@@ -44,3 +44,8 @@ message = "Provide additional contextual information about the changes: (press [
 type = "input"
 name = "footer"
 message = "Footer, e.g. references or notes (press [enter] to skip):"
+
+[[tool.commitizen.customize.questions]]
+type = "input"
+name = "issue"
+message = "Issue number this closes (press [enter] to skip):"
