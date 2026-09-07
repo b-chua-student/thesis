@@ -325,6 +325,11 @@ The Test section documents the evaluation of the mobile game to ensure software 
 
 **Beta Testing.** Focuses on validating the mobile game under real-world conditions with the target end-users. To evaluate the interface's accessibility, usability testing is performed using the System Usability Scale (SUS). This quantitative assessment determines if the application is intuitive enough for users with varying levels of technological literacy. By analyzing the SUS scores, the study identifies potential frustrations and pain points in navigation or gameplay, allowing for final refinements to the UI/UX design before the software is finalized.
 
+## Test Case
+
+| Test Case ID | Test Description | Preconditions | Test Steps | Test Data | Expected Result |
+| ------------ | ---------------- | ------------- | ---------- | --------- | --------------- |
+
 ## **Ethical Consideration**
 
 Because the study requires the collection of user data of all participants of the study and algorithmically, the researchers properly observed ethical considerations in all parts of conducting the study.
