@@ -186,22 +186,6 @@ Table 2: Application of the SIR/SIRS Model in the Study
 | **Recovered (*R*)**         | Individuals who have recovered from the disease and developed immunity (or died). | Signifies units that are either harvested, destroyed, or have reached a state of immunity after fighting a prior infection and are no longer capable of spreading the disease.                                                                  |
 | **Transmission Rate (*β*)** | The rate at which a susceptible individual becomes infected.                      | The rate or probability at which a healthy crop unit (Susceptible) becomes infected upon contact with a pathogen, modulated by environmental variables (such as high humidity or rain) and the proximity to already infected neighboring plots. |
 
-#
-
-#
-
-#
-
-#
-
-#
-
-#
-
-#
-
-#
-
 # **METHODS**
 
 ## **Research Design**
