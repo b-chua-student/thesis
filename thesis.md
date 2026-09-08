@@ -206,15 +206,15 @@ The study requires a secondary group of expert participants to validate the syst
 
 ## **Research Instrument**
 
-In the design of the research instrument, the study will utilize a multi-component approach to gather the baseline requirements, validate technical and domain accuracy, and practical usability of the application for the intended users.
+In the design of the research instrument, the study will utilize 3 instruments.
 
-The instrument consists of three major components. The first component consists of a quantitative researcher-made needs assessment survey provided to undergraduate students. This instrument is designed to map the baseline level of awareness regarding crop disease epidemiology, which will directly serve as the baseline requirements for the game mechanics and educational aspects of the game.
+For the first instrument, a quantitative researcher-made awareness assessment survey will be administered to undergraduate students to establish their baseline level of awareness regarding crop disease epidemiology.
 
-The second component utilizes a qualitative approach that targets the domain and technical experts to shape and refine the system logic. For scientific accuracy, content validation surveys will be provided to an expert from the agriculture sector to validate locally utilized management methods for crop diseases. Concurrently, technical evaluation will be provided to an IT/Computer Science expert to assess the feasibility, efficiency, and optimization constraints of the proposed algorithmic framework and technology stacks.
+The second instrument utilizes a semi-structured interview that targets technical domain experts, such as game developers, computer science experts, or mathematics experts, to gather qualitative insight on the implementation of the algorithm and game mechanics, and the overall design of the game system. To supplement the first awareness assessment instrument, an interview with agricultural experts, from within or outside USLS, will then be conducted mainly to validate the content of the game mechanics, particularly the relevance of the crops, their diseases, and prevention methods represented in the game. Together, the results of both approaches will directly serve as the baseline requirements for the development of the game mechanics and educational content.
 
-The third component consists of a  mixed-methods Usability and Engagement Evaluation administered to the participants to evaluate the developed educational game. This instrument integrated a hybrid design, utilizing a standardized System Usability Scale (SUS), a ten-item, five-point Likert scale to measure software usability, alongside a supplemental block of researcher-made questions to measure Content Accuracy and Educational Impact specific to agriculture awareness
+The third instrument consists of a researcher-made Usability Evaluation Likert-scale survey administered to the participants to assess the developed educational game. This instrument utilizes a ten-item, five-point Likert scale adapted from the System Usability Scale, Game Experience Questionnaire, and Game-Based Learning Questionnaire to measure the overall usability of the educational mobile game in terms of its playability and educational value.
 
-To ensure the validity and reliability of the researcher-made portion of the usability testing instrument, the questionnaire will undergo content validation through expert review by the research adviser. In addition, pilot testing will be conducted using a group of students not included in the final sample. The internal consistency of the instrument will be measured using Cronbach’s Alpha to determine reliability.
+To ensure the validity and reliability of the researcher-made instruments, the questionnaire will undergo content validation through expert review by at least three (3) qualified reviewers.
 
 ## **Data Gathering Procedure**
 
