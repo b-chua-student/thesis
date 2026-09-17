@@ -188,30 +188,15 @@ Table 2: Application of the SIR/SIRS Model in the Study
 | **Recovered (*R*)**         | Individuals who have recovered from the disease and developed immunity (or died). | Signifies units that are either harvested, destroyed, or have reached a state of immunity after fighting a prior infection and are no longer capable of spreading the disease.                                                                  |
 | **Transmission Rate (*β*)** | The rate at which a susceptible individual becomes infected.                      | The rate or probability at which a healthy crop unit (Susceptible) becomes infected upon contact with a pathogen, modulated by environmental variables (such as high humidity or rain) and the proximity to already infected neighboring plots. |
 
-#
-
-#
-
-#
-
-#
-
-#
-
-#
-
-#
-
-#
-
 # **METHODS**
 
 ## **Research Design**
 
-To achieve the primary objective of creating an educational mobile game designed to raise awareness on agricultural science, specifically around crop diseases and its appropriate interventions, the study employed a Design and Development Research (DDR) design with a focus on tool development. This type of research design was selected because it systematically studies the process of designing, developing, and evaluating an instructional tool, which is the crop epidemiology educational mobile game.
-Data collection will be performed using a convergent parallel mixed-methods design, in which the researchers collect and analyze quantitative and qualitative data. The quantitative approach will be utilized in the preliminary phase to measure the undergraduate students baseline level of awareness and the final phase to measure the system usability metrics. Conversely, the qualitative approach will be used during the intermediate phase to gather in depth insights from domain experts regarding mathematical model optimization.
-This design allows for a more comprehensive understanding of the usability of the tool throughout the development process. To assess and refine the mobile game during pre-alpha development, data collection will be performed with experts and end-users at the end of every Agile sprint using the usabiulity testing framework. A final summative UAT will be performed at the alpha/beta stages to assess the mobile game’s effectiveness as an educational tool.
-The development process will follow Agile methodology to allow continuous and iterative refinement of the algorithms, gameplay mechanics, and game loops of the educational mobile game to ensure it meets the defined functional and educational criteria. Continuous feedback from experts and end-users at the end of every sprint allows for early detection and fixing of game design issues and/or technical bugs which will result in a higher end-product quality and effectiveness.
+To achieve the primary objective of creating an educational mobile game designed to raise awareness on agricultural science, specifically around crop diseases and its appropriate interventions, the study employed a Design and Development Research (DDR) design with a focus on tool development. As mentioned by Hanis et al. (2025), DDR is designed to ensure that educational tools are not only developed, but systematically refined and validated through expert feedback and usability testing. This type of research design was selected because it systematically studies the process of designing, developing, and evaluating an instructional tool, which is the crop epidemiology educational mobile game.
+Quantitative survey will measure the baseline level of awareness of the undergraduate students regarding crop disease epidemiology for the first phase. For the final phase, a quantitative evaluation approach will be utilized to measure the system’s usability in terms of playability and educational value. According to Barroga et al. (2023), a quantitative method is appropriate for collecting empirical data, isolating variables, and analyzing the system’s efficacy.
+The qualitative approach will be used to gather in depth insights from domain experts to validate the content and mathematical model optimization. A semi-structured key informant interviews approach will be conducted in this study to obtain feedback from agriculture professionals regarding crop disease content, and technical professionals regarding algorithm suitability. According to Tenny et al. (2022), qualitative research is appropriate for assessing semi-structured interviews to capture human perceptions, experts' insight and contextual details that numerical metrics cannot measure.
+This design allows for a more comprehensive understanding of the usability of the tool throughout the development process.
+The development process will follow Agile methodology to allow continuous and iterative refinement of the algorithms, gameplay mechanics, and game loops of the educational mobile game to ensure it meets the defined functional and educational criteria.
 
 ## **Participants of the Study**
 
@@ -310,11 +295,11 @@ Players are equipped with both reactive and proactive intervention tools designe
 
 **Game Engine.** While the selected game engine must prioritize cross-platform compatibility, extensive documentation, and a robust development ecosystem, it currently remains open for exploration.
 
-**Programming Language and IDE.** The core disease simulation algorithm and game logic were implemented using C\#. Code authoring and debugging were conducted within Visual Studio Code (VSCode), selected for its lightweight footprint and extensibility. The C\# scripts were created under strict guidelines to be modular, scalable, and maintainable, ensuring decoupled components with a clear separation of concerns.
+**Programming Language and IDE.** The core disease simulation algorithm and game logic were implemented using a programming language balancing efficiency with readability, that is compatible with the chosen game engine. Code authoring and debugging were conducted using open-source IDEs or text editors under public licenses or domains. The game logic scripts were created under strict guidelines to be modular, scalable, and maintainable, ensuring decoupled components with a clear separation of concerns.
 
-**Visual Asset Production.** Graphical assets were developed utilizing open-source digital art software to establish the game's visual identity. LibreSprite was utilized for the creation of localized sprite assets and frame-by-frame animations. Krita was employed for generating high-resolution user interface elements, promotional graphics, and complex textures, ensuring visual clarity and responsive scaling on mobile displays.
+**Visual Asset Production.** Graphical assets, including characters, environments, and interface elements, were developed using open-source digital art software to establish the game's visual identity.
 
-**Version Control System**. Unity Version Control was implemented to manage the iterative Design and Development Research (DDR) lifecycle. Unity’s built-in version control system established a comprehensive audit of code modifications, algorithmic adjustments, and asset iterations throughout the mobile game’s development. It facilitated structured versioning, safeguarding project stability and maintaining the rigorous reproducibility standards required for academic research.
+**Version Control System**. Open-source, non-proprietary version control systems were used during development to manage the iterative Design and Development Research (DDR) lifecycle. The version control system was utilized to establish a comprehensive audit of code modifications, algorithmic adjustments, and asset iterations throughout the mobile game’s development. It also facilitated structured versioning, safeguarding project stability and maintaining the rigorous reproducibility standards required for academic research.
 
 **Target Platform and Build Configuration.** The build environment was explicitly configured to target the Android operating system. The integration of Android Software Development Kits (SDKs) and Native Development Kits (NDKs) ensured the mobile game’s accessibility for the participants of the study by being compatible across a diverse range of mobile hardware.
 
