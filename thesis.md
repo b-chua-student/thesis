@@ -56,9 +56,9 @@ Page
 | Table 1: Summary of Related Literature                     | 10   |
 | Table 2: Application of the SIR/SIRS Model in the Study    | 19   |
 | Table 3: Likert-Scale Interpretation                       | 26   |
-| Table 4: Cronbach’s Alpha Reliability Interpretation       | 26   |
-| Table 5: System Usability Scale (SUS) Score Interpretation | 27   |
-|                                                            |      |
+| Table 4: Likert-Scale Interpretation                       | 26   |
+| Table 5: Cronbach’s Alpha Reliability Interpretation       | 26   |
+| Table 6: System Usability Scale (SUS) Score Interpretation | 27   |
 
 # **INTRODUCTION**
 
@@ -254,14 +254,24 @@ For evaluating the overall usability of the mobile application during final phas
 Table 3: Likert-Scale Interpretation
 
 | Scale | Mean Score Range | Verbal Interpretation |
-| ----- | ---------------- |:--------------------- |
+| ----- | ---------------- | --------------------- |
 | 5     | 4.21 \- 5.00     | Strongly Agree        |
 | 4     | 3.41 \- 4.00     | Agree                 |
 | 3     | 2.61 \- 3.40     | Neutral               |
 | 2     | 1.81 \- 2.60     | Disagree              |
 | 1     | 1.00 \- 1.80     | Strongly Disagree     |
 
-Table 4 : Cronbach’s Alpha Reliability Interpretation (George & Mallery, 2003\)
+Table 4: Likert-Scale Interpretation for Crop Diseases Spread Familiarity
+
+| Scale | Mean Score Range | Verbal Interpretation |
+| ----- | ---------------- |:--------------------- |
+| 5     | 4.21 \- 5.00     | Extremely familiar    |
+| 4     | 3.41 \- 4.00     | Very familiar         |
+| 3     | 2.61 \- 3.40     | Moderately familiar   |
+| 2     | 1.81 \- 2.60     | Slightly familiar     |
+| 1     | 1.00 \- 1.80     | Strongly Disagree     |
+
+Table 5 : Cronbach’s Alpha Reliability Interpretation (George & Mallery, 2003\)
 
 | Coefficient of Cronbach’s Alpha | Reliability Level |
 | ------------------------------- |:----------------- |
@@ -272,7 +282,7 @@ Table 4 : Cronbach’s Alpha Reliability Interpretation (George & Mallery, 2003\
 | 0.50 \- 0.59                    | Poor              |
 | Below 0.50                      | Unacceptable      |
 
-Table 5: System Usability Scale (SUS) Score Interpretation (Bangor et al., 2009\)
+Table 6: System Usability Scale (SUS) Score Interpretation (Bangor et al., 2009\)
 
 | SUS Score Range | Acceptability Range |
 | --------------- |:------------------- |
