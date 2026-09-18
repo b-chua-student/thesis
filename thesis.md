@@ -70,12 +70,13 @@ The study aims to explore suitable epidemiological models to identify an optimiz
 
 ## **Statement of the Problem**
 
-This study aims to evaluate the current understanding of crop disease epidemiology among undergraduate students to identify the level of awareness. Furthermore, it proposes the development of an optimized, mobile gamification application as a potential solution to address these gaps. The following were the specific queries the study answered:
+This study aims to evaluate the current understanding and level of awareness of crop disease epidemiology among undergraduate students. Furthermore, it proposes the development of an optimized, mobile game application as a potential solution to address these gaps. The following were the specific queries the study answered:
 
 1. What is the level of awareness regarding crop disease epidemiology among undergraduate students?
-2. What algorithms achieve scientifically accurate crop epidemic modelling while being optimized for resource-hardware mobile devices widely available to undergraduate students?
-3. What technology stack allows an efficient and optimized implementation of realistic crop epidemic modelling for mobile devices and platforms accessible to our target users?
-4. What is the level of usability of the crop disease educational mobile game among undergraduate students in terms of engagement and content relevance?
+2. What algorithms are best suited for crop epidemic modelling on resource-constrained mobile devices widely available to undergraduate students?
+3. What is the level of usability of the crop disease educational mobile game among undergraduate students in terms of:
+    a. Playability
+    b. Educational Value
 
 ## **Conceptual Framework**
 
@@ -306,11 +307,11 @@ Players are equipped with both reactive and proactive intervention tools designe
 
 ## **Test**
 
-The Test section documents the evaluation of the mobile game to ensure software quality, functional accuracy, and alignment with the study’s educational goals. This phase transitions from verifying the internal logic of the software to validating its performance with actual users. The testing process will follow a two-phase approach consisting of alpha testing and beta testing. Alpha testing focuses on internal evaluation conducted by the researchers and selected experts to identify technical issues, validate the functionality and performance of the algorithm, and assess the stability of the application. Beta testing will then be conducted with the target respondents to evaluate the application’s usability, engagement, content relevance, and overall user experience in an actual user environment.
+The Test section documents the evaluation of the mobile game to ensure software quality, functional accuracy, and alignment with the study’s educational goals. This phase transitions from verifying the internal logic of the software to validating its performance with actual users. The testing process will follow a two-phase approach consisting of an alpha and beta test. Alpha testing focuses on internal evaluation conducted by the researchers to identify technical issues, validate the functionality and performance of the algorithm, and assess the stability of the application. Beta testing will then be conducted with the target respondents to evaluate the application’s usability, in terms of playability and educational value, in an actual user environment.
 
-**Alpha Testing.** Focuses on evaluating the internal logic and technical stability of the mobile game within a controlled environment, ensuring core technical requirements are met before release. Participants in this stage are primarily agricultural experts on crop epidemiology. This includes unit and functional testing, testing of individual scripts and the core logic governing the disease dynamics. Validation of the epidemiological algorithm is also performed to guarantee the mobile game’s outputs align with scientifically accurate biological theory.
+**Alpha Testing.** Focuses on evaluating the internal logic and technical stability of the mobile game within a controlled environment, ensuring core technical requirements are met before release. Participants in this stage are primarily the researchers. Evaluation also includes unit and functional testing of individual scripts and the core logic governing the disease dynamics, and validation of the mathematical accuracy of the compartmental epidemiological implementation.
 
-**Beta Testing.** Focuses on validating the mobile game under real-world conditions with the target end-users. To evaluate the interface's accessibility, usability testing is performed using the System Usability Scale (SUS). This quantitative assessment determines if the application is intuitive enough for users with varying levels of technological literacy. By analyzing the SUS scores, the study identifies potential frustrations and pain points in navigation or gameplay, allowing for final refinements to the UI/UX design before the software is finalized.
+**Beta Testing.** Focuses on validating the mobile game under real-world conditions with the target end-users, specifically the participants of the study. To assess the mobile game’s overall usability in terms of its playability and educational value, testing is performed using the researcher-made Usability Evaluation tool. This quantitative assessment determines whether the mobile game application is intuitive and enjoyable enough for users with varying levels of technological literacy, while promoting familiarity with and learning of crop epidemiology concepts. By analyzing the Usability Evaluation scores, the study identifies potential frustrations and pain points in gameplay and the delivery of educational content, allowing for final refinements to the mobile game before deployment.
 
 ## **Ethical Consideration**
 
