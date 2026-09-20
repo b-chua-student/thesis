@@ -229,7 +229,7 @@ The second instrument utilizes a semi-structured interview that targets technica
 
 The third instrument consists of a composite Usability Evaluation Likert-scale survey administered to the participants to assess the developed educational game. This instrument adpoted the elevem-item, five-point Likert scale from the Usability/Playability factor of the Game User Experience Satisfaction Scale (GUESS) for measuring the playability, and the five-item adopted from the Knowledge Improvement dimension of  EGameFlow to measure the educational value of the game. The instrument only adopted the specific factors and dimensions of the frameworks to measure the overall usability of the educational mobile game in terms of its playability and educational value. The remaining factors and dimensions of the original frameworks were excluded, as they measured variables outside the specific scope of the study.
 
-To ensure the validity and reliability of the researcher-made instruments, the questionnaire will undergo content validation through expert review by at least three (3) qualified reviewers.
+To ensure the validity and reliability of the researcher-made and composite instruments, the questionnaire will undergo content validation through expert review by at least three (3) qualified reviewers and reliability testing, utilizing Cronbach's alpha on pilot data to achieve a minimum acceptable reliability coefficient of 0.70.
 
 ## **Data Gathering Procedure**
 
