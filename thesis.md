@@ -51,14 +51,12 @@ Page
 
 **LIST OF TABLES**
 
-| Table                                                      | Page |
-|:---------------------------------------------------------- | ---- |
-| Table 1: Summary of Related Literature                     | 10   |
-| Table 2: Application of the SIR/SIRS Model in the Study    | 19   |
-| Table 3: Likert-Scale Interpretation                       | 26   |
-| Table 4: Cronbach’s Alpha Reliability Interpretation       | 26   |
-| Table 5: System Usability Scale (SUS) Score Interpretation | 27   |
-|                                                            |      |
+| Table                                                   | Page |
+|:------------------------------------------------------- | ---- |
+| Table 1: Summary of Related Literature                  | 10   |
+| Table 2: Application of the SIR/SIRS Model in the Study | 19   |
+| Table 3: Likert-Scale Interpretation                    | 26   |
+| Table 4: Cronbach’s Alpha Reliability Interpretation    | 26   |
 
 # **INTRODUCTION**
 
@@ -232,25 +230,23 @@ Following the interaction with the mobile game, participants will be asked to co
 
 ## **Statistical Treatment**
 
-The data collected from the baseline needs assessment, expert validations, and final usability evaluations will be organized, codified, and processed using spreadsheet software and statistical packages, specifically Microsoft Excel and Jamovi. Prior to data analysis, all responses will undergo codification to ensure a systematic approach. Closed-ended items with predetermined indicators, including the ten-item, five-point Likert scale used in the System Usability Scale (SUS), will be immediately codified into numerical values. In contrast, qualitative data from open-ended feedback and expert evaluation sheets will be compiled, organized into thematic categories through thematic analysis, and assigned descriptive codes.
+The data collected from the awareness assessment survey, semi-structured interviews, and final usability evaluations will be organized, codified, and processed using spreadsheet software and statistical packages, specifically Microsoft Excel and Jamovi. Prior to data analysis, all responses will undergo codification to ensure a systematic approach. Closed-ended items with predetermined indicators, including the ten-item, five-point Likert scale used in the Awareness Assessment and Usability Evaluation instruments, will be immediately codified into numerical values. In contrast, qualitative data from open-ended feedback and expert evaluation sheets will be compiled, organized into thematic categories through thematic analysis, and assigned descriptive codes.
 
-For the pre-test and pilot test data of the researcher-made questionnaires, Cronbach’s Alpha will be utilized as an internal consistency metric. This tool will measure the reliability of the survey items to ensure that the data-gathering instruments are statistically stable.
+For the qualitative data gathered from the agriculture and technical professionals from semi-structured interviews, responses will be analyzed using thematic analysis. The researchers will organize, transcribe, and review the responses to identify the suggestions and ideas provided by the professionals. These responses will be grouped into relevant themes across two primary domains such as agricultural content validation and technical architecture. The identified themes will be used to guide the initial specification of the game.
 
-For summarizing the demographic profile of the students respondents and categorizing the baseline requirements regarding the students’ level of awareness, Frequency and Percentage Distributions will be utilized
+For interpreting the quantitative responses from the researcher-made awareness assessment survey and the usability evaluation, the researchers will utilize descriptive statistical analysis, specifically the Mean and Standard Deviation. The mean will indicate the central tendency of the student responses, while the standard deviation will measure the data's variability, ensuring an accurate evaluation of the Likert scale data as required by standard research practices.
 
-For interpreting the quantitative responses from the researcher-made needs assessment and the supplemental evaluation block measuring user engagement and content relevance, the Mean and Standard Deviation will be utilized. The mean will indicate the central tendency of the student responses, while the standard deviation will measure the data's variability, ensuring an accurate evaluation of the Likert scale data as required by standard research practices.
-
-For evaluating the overall usability of the mobile application during Phase 3, the standard System Usability Scale (SUS) Scoring Algorithm will be applied. Under this framework, the score for odd-numbered items (positive statements) is the scale position minus one, while for even-numbered items (negative statements), the score is five minus the scale position. The sum of these calculated values is then multiplied by 2.5 to convert the final usability score to a standardized scale ranging from 0 to 100\. The resulting scores will be mapped against established adjective rating scales to mathematically determine the application's overall user experience and systemic viability.
+For evaluating the game's overall usability in terms of playability and educational value during final phase to answer RQ3, the data gathered from the composite instrument will be quantified using a standard 5-point Likert scale. Descriptive statistics, specifically the weighted mean and standard deviation, will be calculated for both the GUESS and EGameFlow subscale. The resulting means will then be mapped against established descriptive rating scales to mathematically determine the game's overall usability in terms of playbility and educational value.
 
 Table 3: Likert-Scale Interpretation
 
-| Scale | Mean Score Range | Verbal Interpretation |
-| ----- | ---------------- |:--------------------- |
-| 5     | 4.21 \- 5.00     | Strongly Agree        |
-| 4     | 3.41 \- 4.00     | Agree                 |
-| 3     | 2.61 \- 3.40     | Neutral               |
-| 2     | 1.81 \- 2.60     | Disagree              |
-| 1     | 1.00 \- 1.80     | Strongly Disagree     |
+| Scale | Mean Score Range | Verbal Interpretation | Interpretation for SOP1 (Level of Awareness) | Interpretation for Playability | Interpretation for Educational Value |
+| ----- | ---------------- | --------------------- | -------------------------------------------- | ------------------------------ | ------------------------------------ |
+| 5     | 4.21 \- 5.00     | Strongly Agree        | Very High Awareness                          | Highly Playable                | Extremely High Educational Value     |
+| 4     | 3.41 \- 4.20     | Agree                 | High Awareness                               | Playable                       | High Educational Value               |
+| 3     | 2.61 \- 3.40     | Neutral               | Moderate Awareness                           | Moderately Playable            | Moderate Educational Value           |
+| 2     | 1.81 \- 2.60     | Disagree              | Low Awareness                                | Poorly Playable                | Low Educational Value                |
+| 1     | 1.00 \- 1.80     | Strongly Disagree     | No Awareness                                 | Not Playable                   | No Educational Value                 |
 
 Table 4 : Cronbach’s Alpha Reliability Interpretation (George & Mallery, 2003\)
 
@@ -262,16 +258,6 @@ Table 4 : Cronbach’s Alpha Reliability Interpretation (George & Mallery, 2003\
 | 0.60 \- 0.69                    | Questionable      |
 | 0.50 \- 0.59                    | Poor              |
 | Below 0.50                      | Unacceptable      |
-
-Table 5: System Usability Scale (SUS) Score Interpretation (Bangor et al., 2009\)
-
-| SUS Score Range | Acceptability Range |
-| --------------- |:------------------- |
-| 85.0 \- 100.0   | Acceptable          |
-| 70.0 \- 84.9    | Acceptable          |
-| 50.0 \- 69.9    | Marginal            |
-| 35.0 \- 49.9    | Unacceptable        |
-| Below 34.9      | Unacceptable        |
 
 ## **Design**
 
