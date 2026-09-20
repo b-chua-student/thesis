@@ -335,6 +335,8 @@ Bangor, A., Kortum, P., & Miller, J. (2009). *Determining what individual SUS sc
 
 Bashabsheh, M. (2025). A combined model for simulating the spatial dynamics of epidemic spread: Integrating stochastic compartmentalization and cellular automata approach. *International Journal of Mathematical, Engineering and Management Sciences, 10*(2), 522–536. [https://doi.org/10.33889/IJMEMS.2025.10.2.026](https://doi.org/10.33889/IJMEMS.2025.10.2.026)
 
+Barroga, E., Matanguihan, G. J., Furuta, A., Arima, M., Tsuchiya, S., Kawahara, C., Takamiya, Y., & Izumi, M. (2023). Conducting and writing quantitative and qualitative research. Journal of Korean Medical Science, 38(37), e291. https://doi.org/10.3346/jkms.2023.38.e291
+
 Bassanelli, S., Belliato, R., Bonetti, F., Vacondio, M., Gini, F., Zambotto, L., & Marconi, A. (2025). Gamify to persuade: A systematic review of gamified sustainable mobility. *Acta Psychologica, 252*, Article 104687\. [https://doi.org/10.1016/j.actpsy.2024.104687](https://doi.org/10.1016/j.actpsy.2024.104687)
 
 Benson, L., Davidson, R. S., Green, D. M., Hoyle, A., Hutchings, M. R., & Marion, G. (2021). When and why direct transmission models can be used for environmentally persistent pathogens. *PLOS Computational Biology, 17*(12), Article e1009652. [https://doi.org/10.1371/journal.pcbi.1009652](https://doi.org/10.1371/journal.pcbi.1009652)
@@ -344,6 +346,8 @@ Best, A., & Cunniffe, N. J. (2026). Fitting a lattice model with local and globa
 Boncu, Ș., Candel, O.-S., & Popa, N. L. (2022). Gameful green: A systematic review on the use of serious computer games and gamified mobile apps to foster pro-environmental information, attitudes and behaviors. *Sustainability, 14*(16), Article 10400\. [https://doi.org/10.3390/su141610400](https://doi.org/10.3390/su141610400)
 
 Braydent, B., & Fajar, M. (2025). Development of an educational farming simulation game to raise awareness of the food crisis. *BIO Web of Conferences, 197*, Article 02004\. [https://doi.org/10.1051/bioconf/202519702004](https://doi.org/10.1051/bioconf/202519702004)
+
+Budiu, R., & Moran, K. (2021, July 25). How many participants for quantitative usability studies: A summary of sample-size recommendations. Nielsen Norman Group. https://www.nngroup.com/articles/summary-quant-sample-sizes/
 
 Carlsson, M., Wittsten, J., & Söderberg-Nauclér, C. (2023). A note on variable susceptibility, the herd-immunity threshold and modeling of infectious diseases. *PLOS ONE, 18*(2), Article e0279454. [https://doi.org/10.1371/journal.pone.0279454](https://doi.org/10.1371/journal.pone.0279454)
 
@@ -368,6 +372,8 @@ George, D., & Mallery, P. (2003). *SPSS for Windows step by step: A simple guide
 González-Domínguez, E., Fedele, G., Salinari, F., & Rossi, V. (2020). A general model for the effect of crop management on plant disease epidemics at different scales of complexity. *Agronomy, 10*, Article 462\. [https://doi.org/10.3390/agronomy10040462](https://doi.org/10.3390/agronomy10040462)
 
 Gutiérrez-Jara, J. P., Vogt-Geisse, K., Correa, M. C. G., Vilches-Ponce, K., Pérez, L. M., & Chowell, G. (2023). Modeling the impact of agricultural mitigation measures on the spread of Sharka disease in sweet cherry orchards. *Plants, 12*(19), Article 3442\. [https://doi.org/10.3390/plants12193442](https://doi.org/10.3390/plants12193442)
+
+Hanis, N. M., Jamil, M. R. M., Yulu, J., Zalli, M. M. M., & Othman, M. S. (2025). Design and Development Research (DDR) approach in development of Value-Based Pedagogy Model in the context of a Multiracial Country. Journal of Curriculum and Teaching, 14(1), 248. https://doi.org/10.5430/jct.v14n1p248
 
 Huancas, F., Coronel, A., Vidal, R., Berres, S., & Brito, H. (2024). A mathematical model of flavescence dorée in grapevines by considering seasonality. *Mathematical Biosciences and Engineering, 21*(11), 7554–7581. [https://doi.org/10.3934/mbe.2024332](https://doi.org/10.3934/mbe.2024332)
 
@@ -394,6 +400,8 @@ Page, M. J., McKenzie, J. E., Bossuyt, P. M., Boutron, I., Hoffmann, T. C., Mulr
 Philippine Statistics Authority. (2025, September). *Quickstat: Negros Island Region*. Regional Statistical Services Office \- Negros Island Region. https://rssonir.psa.gov.ph/sites/default/files/publication/September-2025-Quikstat.pdf
 
 Shukla, M. P., Mishra, B. P., Mishra, D., Gupta, B. K., & Mishra, S. (2026). Assessment of awareness and knowledge dynamics of natural farming among agricultural students in Uttar Pradesh. *Journal of Experimental Agriculture International, 48*(2), 352–361. [https://doi.org/10.9734/jeai/2026/v48i24069](https://doi.org/10.9734/jeai/2026/v48i24069)
+
+Tenny, S., Brannan, J. M., & Brannan, G. D. (2022, September 18). Qualitative study. StatPearls - NCBI Bookshelf. https://www.ncbi.nlm.nih.gov/books/NBK470395/
 
 Tresna, S. T., Anggriani, N., & Supriatna, A. K. (2023). Study of mathematical modeling for plant disease transmission: A systematic literature review during 2012–2022. *Jambura Journal of Biomathematics, 4*(1), 1–14. [https://doi.org/10.34312/jjbm.v4i1.18443](https://doi.org/10.34312/jjbm.v4i1.18443)
 
