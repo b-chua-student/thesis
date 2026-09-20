@@ -51,14 +51,12 @@ Page
 
 **LIST OF TABLES**
 
-| Table                                                      | Page |
-|:---------------------------------------------------------- | ---- |
-| Table 1: Summary of Related Literature                     | 10   |
-| Table 2: Application of the SIR/SIRS Model in the Study    | 19   |
-| Table 3: Likert-Scale Interpretation                       | 26   |
-| Table 4: Cronbach’s Alpha Reliability Interpretation       | 26   |
-| Table 5: System Usability Scale (SUS) Score Interpretation | 27   |
-|                                                            |      |
+| Table                                                   | Page |
+|:------------------------------------------------------- | ---- |
+| Table 1: Summary of Related Literature                  | 10   |
+| Table 2: Application of the SIR/SIRS Model in the Study | 19   |
+| Table 3: Likert-Scale Interpretation                    | 26   |
+| Table 4: Cronbach’s Alpha Reliability Interpretation    | 26   |
 
 # **INTRODUCTION**
 
@@ -70,38 +68,42 @@ The study aims to explore suitable epidemiological models to identify an optimiz
 
 ## **Statement of the Problem**
 
-This study aims to evaluate the current understanding of crop disease epidemiology among undergraduate students to identify the level of awareness. Furthermore, it proposes the development of an optimized, mobile gamification application as a potential solution to address these gaps. The following were the specific queries the study answered:
+This study aims to evaluate the current understanding and level of awareness of crop disease epidemiology among undergraduate students. Furthermore, it proposes the development of an optimized, mobile game application as a potential solution to address these gaps. The following were the specific queries the study answered:
 
 1. What is the level of awareness regarding crop disease epidemiology among undergraduate students?
-2. What algorithms achieve scientifically accurate crop epidemic modelling while being optimized for resource-hardware mobile devices widely available to undergraduate students?
-3. What technology stack allows an efficient and optimized implementation of realistic crop epidemic modelling for mobile devices and platforms accessible to our target users?
-4. What is the level of usability of the crop disease educational mobile game among undergraduate students in terms of engagement and content relevance?
+2. What algorithms are best suited for crop epidemic modelling on resource-constrained mobile devices widely available to undergraduate students?
+3. What is the level of usability of the crop disease educational mobile game among undergraduate students in terms of:
+    a. Playability
+    b. Educational Value
 
 ## **Conceptual Framework**
 
+![Conceptual Framework](assets/conceptual_framework.png)
 *Figure 1: Conceptual framework*
 
-The study employs a logic model framework to systematically illustrate the relationship between its inputs, processes, outcomes, and outputs. Undergraduate students serve as the target population, bringing a baseline level of agricultural awareness, which serves as the measurable starting point for the study, alongside a developed mobile gamification application, designed around the ARCS Model. These inputs guide the design and implementation of the application, culminating in a testing phase where students interact with the mobile game to evaluate its usability, functionality, and overall user experience.  Data will be gathered at the end of the testing phase to measure motivation, engagement, and overall usability through the System Usability Scale (SUS) surveys. The resulting outcomes include an evaluated educational tool that fosters higher student satisfaction, engagement, and an improved capacity to understand crop disease spread patterns through interactive simulation. Ultimately, this study aims to develop a mobile educational tool that promotes practical, field-ready skills and expertise through immersive, gamified simulations instead of memorization of theoretical knowledge. Furthermore, the game promotes targeted, sustainable pesticide application and fosters a new generation of technologically literate professionals by bridging the digital divide in the Philippine agricultural sector.
+The study employs a logic model framework to systematically illustrate the relationship between its inputs, processes, outcomes, and outputs. Undergraduate students serve as the target population, bringing a baseline level of agricultural awareness, which serves as the measurable starting point for the study, alongside a developed mobile gamification application, designed around the ARCS Model. These inputs guide the design and implementation of the application, culminating in a testing phase where the participants of the study interact with the mobile game to evaluate its usability, functionality, and overall user experience. Data will be gathered at the end of the testing phase to measure overall usability using a researcher-made Likert-scale survey. The resulting outcomes include an evaluated educational tool that fosters an improved capacity to understand crop disease spread patterns and promotes agricultural interest through interactive simulation with high playability, engaging mechanics, and relevant educational content. Ultimately, this study aims to develop a mobile educational tool that promotes familiarity with crop epidemic scenarios and appropriate measures through immersive, gamified simulations instead of memorization of theoretical knowledge. Furthermore, the game promotes targeted, sustainable pesticide application and fosters a new generation of technologically literate professionals by bridging the digital divide in the Philippine agricultural sector.
 
 ## **Scope and Limitation**
 
-This study focuses on developing a mobile gamified application designed to raise awareness of crop epidemiology. While the developed educational mobile game is ultimately designed for the broader population of undergraduate students in the Philippines, the scope of data gathering for this specific study is delimited to a localized representative sample. Specifically, respondents for both the baseline requirements gathering and the final usability evaluation will be purposively selected from undergraduate institutions strictly within Bacolod City. This localized sampling approach allows the researchers to efficiently gather valid, representative data within the given timeframe while ensuring the application’s design remains scalable for the general undergraduate demographic.
+This study focuses on developing a mobile game application designed to raise awareness towards crop epidemiology. While the developed educational mobile game is ultimately designed for the broader population of undergraduate students in the Philippines, the scope of data gathering for this specific study is restricted to a localized representative sample. Specifically, respondents for both the baseline requirements gathering and the final usability evaluation will be purposively selected from undergraduate institutions strictly within Bacolod City. This localized sampling approach allows the researchers to efficiently gather valid, representative data within the given timeframe while ensuring the application’s design remains scalable for the general undergraduate demographic.
 
- The application's core functionality involves simulating disease outbreaks through an optimal mathematical algorithm, demonstrating the impact of environmental variables and human intervention. To ensure localized relevance, the agricultural scope is limited to the three most commonly consumed crops within the city. These crops are Rice, Sugarcane, and Corn, focusing specifically on their most significant pathological threats.
+The application's core functionality involves simulating crop disease outbreaks through a computational implementation of a compartmental epidemiological model, demonstrating the impact of environmental variables and human intervention. To ensure localized relevance, the agricultural scope is limited to the three most commonly consumed crops within the city. These crops are Rice, Sugarcane, and Corn, focusing specifically on each of their three (3) most significant pathological threats.
 
-The evaluation of the application will be centered on assessing its usability to examine the game's functional suitability and ease of use and its impact in terms of engagement and content relevance. This study prioritizes gathering user feedback regarding the game's interface, navigation, and the clarity of the simulation. The application will be developed for mobile platforms to ensure accessibility. Field testing and user evaluation will be conducted in areas within Bacolod City. The results may not be generalized to individuals with different levels of technological literacy or areas with different digital infrastructure.
+The usability of the game application will be assessed by examining the game's functionality and ease of use, and its educational value. This study prioritizes gathering user feedback regarding the game's overall experience, interface responsiveness and ease of navigation, as well as the relevance and clarity of its educational content. The application will be developed for mobile platforms to ensure accessibility. Field testing and user evaluation will be conducted in areas within Bacolod City. The results may not be generalized to individuals with different levels of technological literacy or areas with different digital infrastructure.
 
-As an educational mobile game, the application will not act as an exhaustive encyclopedia of all known crop diseases, but will focus strictly on the most frequent and economically significant diseases affecting the three chosen crops. Furthermore, the study assumes users have access to basic smartphones and will not provide hardware or utilize high-end technologies like VR or AR, which remain financially inaccessible to the target demographic. Finally, while an initial download is required, the application is designed for offline functionality to accommodate the unreliable internet connectivity prevalent in many Philippine rural farming communities.
+As an educational mobile game, the application will not act as an exhaustive encyclopedia of all known crop diseases, but will focus strictly on the three (3) most frequent and economically significant diseases affecting the three (3) chosen crops. Furthermore, the study assumes users have access to basic smartphones and will not provide hardware or utilize high-end technologies like VR or AR, which remain financially inaccessible to the target demographic. Finally, while an initial download is required, the application is designed for offline functionality to accommodate the unreliable internet connectivity prevalent in many Philippine rural farming communities.
 
 ## **Significance of the Study**
 
 The following stakeholders will directly benefit from the results of this study:
+
 **Undergraduate Students.** This study is significant for undergraduate students as it addresses the critical intersection of food security and agricultural sustainability in the Philippines. By visualizing the impact of destructive plant pathogens through a crop disease modeling game, the application raises awareness about the micro-biological threats that compromise annual crop yields. This interactive approach helps bridge the gap between higher education students and the fundamental challenges of modern farming. Furthermore, the study aims to foster a deeper interest in agricultural science, inspiring students to recognize the vital nature of the sector and its potential for technological innovation.
-**Developers.** For the technology sector, this research highlights an optimized technology stack and framework for implementing and integrating appropriate epidemiological algorithms, on entry-level mobile hardware. It serves as a proof of concept for creating offline capable, mobile optimized software that functions in resource-constrained rural areas, effectively addressing the digital divide in the Philippine context.
 
-**Agricultural Agencies and Educators.** For institutions such as the Department of Agriculture and agricultural educators, this study introduces a modern, gamified medium for information dissemination. The localized focus on rice, sugarcane, and corn diseases provides these stakeholders with an interactive supplemental tool that can be used to easily explain complex disease transmission vectors and crop management methods to younger generations.
+**Developers.** For the technology sector, this research highlights an optimized implementation of a compartmental epidemiological model on entry-level mobile hardware. It serves as a proof of concept for creating offline capable, mobile optimized software that functions in resource-constrained rural areas, effectively addressing the digital divide in the Philippine context.
 
-**Future Researchers.** The study holds importance for future researchers as it provides a baseline for designing and evaluating the usability and user acceptance of mathematical-based gamified applications. The findings offer valuable data on crop disease spread patterns for rice, corn, and sugarcane, and provide a scalable logic model that can be expanded to include different climatic zones or more advanced technologies like VR and AR.
+**Agricultural Agencies and Educators.** For agricultural institutions and educators, this study introduces a modern, gamified medium for information dissemination. The localized focus on rice, sugarcane, and corn diseases provides these stakeholders with an interactive supplemental tool that can be used to easily explain complex disease transmission vectors and crop management methods to younger generations.
+
+**Future Researchers.** The study holds importance for future researchers as it provides a baseline for designing and evaluating the usability of mathematical-based game simulations. The findings offer valuable data on implementing compartmental epidemiological models on basic mobile hardware, and provide a scalable logic model that can be expanded to include different climatic zones or more advanced technologies like VR and AR.
 
 ## **Definition of Terms**
 
@@ -186,38 +188,22 @@ Table 2: Application of the SIR/SIRS Model in the Study
 | **Recovered (*R*)**         | Individuals who have recovered from the disease and developed immunity (or died). | Signifies units that are either harvested, destroyed, or have reached a state of immunity after fighting a prior infection and are no longer capable of spreading the disease.                                                                  |
 | **Transmission Rate (*β*)** | The rate at which a susceptible individual becomes infected.                      | The rate or probability at which a healthy crop unit (Susceptible) becomes infected upon contact with a pathogen, modulated by environmental variables (such as high humidity or rain) and the proximity to already infected neighboring plots. |
 
-#
-
-#
-
-#
-
-#
-
-#
-
-#
-
-#
-
-#
-
 # **METHODS**
 
 ## **Research Design**
 
-To achieve the primary objective of creating an educational mobile game designed to raise awareness on agricultural science, specifically around crop diseases and its appropriate interventions, the study employed a Design and Development Research (DDR) design with a focus on tool development. This type of research design was selected because it systematically studies the process of designing, developing, and evaluating an instructional tool, which is the crop epidemiology educational mobile game.
-Data collection will be performed using a convergent parallel mixed-methods design, in which the researchers collect and analyze quantitative and qualitative data. The quantitative approach will be utilized in the preliminary phase to measure the undergraduate students baseline level of awareness and the final phase to measure the system usability metrics. Conversely, the qualitative approach will be used during the intermediate phase to gather in depth insights from domain experts regarding mathematical model optimization.
-This design allows for a more comprehensive understanding of the usability of the tool throughout the development process. To assess and refine the mobile game during pre-alpha development, data collection will be performed with experts and end-users at the end of every Agile sprint using the usabiulity testing framework. A final summative UAT will be performed at the alpha/beta stages to assess the mobile game’s effectiveness as an educational tool.
-The development process will follow Agile methodology to allow continuous and iterative refinement of the algorithms, gameplay mechanics, and game loops of the educational mobile game to ensure it meets the defined functional and educational criteria. Continuous feedback from experts and end-users at the end of every sprint allows for early detection and fixing of game design issues and/or technical bugs which will result in a higher end-product quality and effectiveness.
+To achieve the primary objective of creating an educational mobile game designed to raise awareness on agricultural science, specifically around crop diseases and its appropriate interventions, the study employed a Design and Development Research (DDR) design with a focus on tool development. As mentioned by Hanis et al. (2025), DDR is designed to ensure that educational tools are not only developed, but systematically refined and validated through expert feedback and usability testing. This type of research design was selected because it systematically studies the process of designing, developing, and evaluating an instructional tool, which is the crop epidemiology educational mobile game.
+Quantitative survey will measure the baseline level of awareness of the undergraduate students regarding crop disease epidemiology for the first phase. For the final phase, a quantitative evaluation approach will be utilized to measure the system’s usability in terms of playability and educational value. According to Barroga et al. (2023), a quantitative method is appropriate for collecting empirical data, isolating variables, and analyzing the system’s efficacy.
+The qualitative approach will be used to gather in depth insights from domain experts to validate the content and mathematical model optimization. A semi-structured key informant interviews approach will be conducted in this study to obtain feedback from agriculture professionals regarding crop disease content, and technical professionals regarding algorithm suitability. According to Tenny et al. (2022), qualitative research is appropriate for assessing semi-structured interviews to capture human perceptions, experts' insight and contextual details that numerical metrics cannot measure.
+This design allows for a more comprehensive understanding of the usability of the tool throughout the development process.
+The development process will follow Agile methodology to allow continuous and iterative refinement of the algorithms, gameplay mechanics, and game loops of the educational mobile game to ensure it meets the defined functional and educational criteria.
 
 ## **Participants of the Study**
 
-While the mobile gamified application is ultimately designed for the broader population of undergraduate students, data gathering for this study will be strictly delimited to a localized representative sample to ensure a controlled and feasible research scope. The study will involve two distinct groups of participants, selected via purposive sampling, corresponding to the different phases of the research methodology.
-For both preliminary baseline requirements gathering for SOP 1 and for the usability evaluation for SOP 3, participants will be purposively selected from undergraduate students currently enrolled in various higher education institutions within Bacolod City. This multi-institutional group serves as a representative microcosm of the broader target demographic, who are highly reliant on mobile technology but remain largely disconnected from the fundamental agricultural sector.
-For the inclusion, participants must be officially enrolled undergraduate students at any college university within Bacolod City, have personal access to basic,entry-level mobile devices, and express a willingness to participate in the surveys and prototype testing.
-For the exclusion, to ensure the study accurately benchmarks the baseline level of agricultural awareness among the general student population, undergraduate students enrolled in agricultural disciplines or closely related botanical sciences will be excluded for the study. The target undergraduate student respondents are strictly from non-agricultural disciplines.
-The study requires a secondary group of expert participants to validate the system’s core mechanics and educational accuracy prior to deployment. For the content validation, an Agricultural Expert will be purposely selected based on their established expertise in crop science, plant pathology, or related agricultural sectors. They will validate the accuracy and content relevance regarding rice, sugarcane, and corn diseases. For the technical aspects of the study, a technical expert in  IT or Computer Science professional will be selected to evaluate the application’s efficiency of the algorithm, offline capability, and overall technical feasibility.
+While the mobile gamified application is ultimately designed for the broader population of undergraduate students, data gathering for this study will be strictly delimited to a localized representative sample to ensure a controlled and feasible research scope. The study will involve two distinct groups of participants, selected via purposive sampling, corresponding to the different phases of the research methodology and convenience sampling for the final phase.
+For the baseline requirements gathering the level of agricultural awareness regarding crop diseases, participants will be purposively selected from undergraduate students. For the inclusion, participants must be officially enrolled undergraduate students at any college university within Bacolod City, have personal access to basic, entry-level mobile devices, and express a willingness to participate in the surveys and prototype testing. For the exclusion, to ensure the study accurately benchmarks the baseline level of agricultural awareness among the general student population, undergraduate students enrolled in agricultural disciplines or closely related botanical sciences will be excluded for the study. The target undergraduate student respondents are strictly from non-agricultural disciplines. A sample size of fifty (50) participants was established for gathering the baseline requirements. This sample size aligns on the Human-Computer Interaction (HCI) and quantitative requirements-gathering standard, suggesting that this sample size is adequate for stable preliminary descriptive metric analysis and early-stage baselining (Budiu & Moran, 2021). This group serves as a representative microcosm of the broader target demographic, who are highly reliant on mobile technology but remain largely disconnected from the fundamental agricultural sector.
+The study requires a secondary group of domain expert participants to validate the system’s core mechanics and educational accuracy prior to deployment. For the content validation, the study will purposively select three (3) Agriculture professionals, within or external to University of St. La Salle Bacolod City (USLS), based on their established expertise in crop science, plant pathology, or related agricultural sectors. They will validate the accuracy and content relevance regarding rice, sugarcane, and corn diseases. For the technical aspects of the study the researchers will purposively select five (5) technical professionals, either related to the field of Computer Science, Game Developer and Math professionals. They will be purposively selected to evaluate the application’s efficiency of the algorithm, offline capability, and overall technical feasibility. Each of them will participate in a semi-structured interview to validate content and the technical aspect of the game in relation to their expertise. The methods of these interviews will be conducted either face-to-face or online, depending on the participants convenience and availability.
+For the final phase usability evaluation survey, the study will evaluate these two groups. Convenience sampling will be utilized to select at least seventy (70) undergraduate students within Bacolod City. For the domain expert, the study will retain the same agriculture and technical professionals who participated in the qualitative phase. Retaining these expert evaluators can ensure the continuity in the Design and Development Research (DDR). These experts can perform summative evaluation of whether their recommendations were incorporated into the game. These groups of participants will evaluate the overall usability of the educational mobile game in terms of its playability and educational value.
 
 ## **Research Instrument**
 
@@ -243,25 +229,23 @@ Following the interaction with the mobile game, participants will be asked to co
 
 ## **Statistical Treatment**
 
-The data collected from the baseline needs assessment, expert validations, and final usability evaluations will be organized, codified, and processed using spreadsheet software and statistical packages, specifically Microsoft Excel and Jamovi. Prior to data analysis, all responses will undergo codification to ensure a systematic approach. Closed-ended items with predetermined indicators, including the ten-item, five-point Likert scale used in the System Usability Scale (SUS), will be immediately codified into numerical values. In contrast, qualitative data from open-ended feedback and expert evaluation sheets will be compiled, organized into thematic categories through thematic analysis, and assigned descriptive codes.
+The data collected from the awareness assessment survey, semi-structured interviews, and final usability evaluations will be organized, codified, and processed using spreadsheet software and statistical packages, specifically Microsoft Excel and Jamovi. Prior to data analysis, all responses will undergo codification to ensure a systematic approach. Closed-ended items with predetermined indicators, including the ten-item, five-point Likert scale used in the Awareness Assessment and Usability Evaluation instruments, will be immediately codified into numerical values. In contrast, qualitative data from open-ended feedback and expert evaluation sheets will be compiled, organized into thematic categories through thematic analysis, and assigned descriptive codes.
 
-For the pre-test and pilot test data of the researcher-made questionnaires, Cronbach’s Alpha will be utilized as an internal consistency metric. This tool will measure the reliability of the survey items to ensure that the data-gathering instruments are statistically stable.
+For the qualitative data gathered from the agriculture and technical professionals from semi-structured interviews, responses will be analyzed using thematic analysis. The researchers will organize, transcribe, and review the responses to identify the suggestions and ideas provided by the professionals. These responses will be grouped into relevant themes across two primary domains such as agricultural content validation and technical architecture. The identified themes will be used to guide the initial specification of the game.
 
-For summarizing the demographic profile of the students respondents and categorizing the baseline requirements regarding the students’ level of awareness, Frequency and Percentage Distributions will be utilized
+For interpreting the quantitative responses from the researcher-made awareness assessment survey and the usability evaluation, the researchers will utilize descriptive statistical analysis, specifically the Mean and Standard Deviation. The mean will indicate the central tendency of the student responses, while the standard deviation will measure the data's variability, ensuring an accurate evaluation of the Likert scale data as required by standard research practices.
 
-For interpreting the quantitative responses from the researcher-made needs assessment and the supplemental evaluation block measuring user engagement and content relevance, the Mean and Standard Deviation will be utilized. The mean will indicate the central tendency of the student responses, while the standard deviation will measure the data's variability, ensuring an accurate evaluation of the Likert scale data as required by standard research practices.
-
-For evaluating the overall usability of the mobile application during Phase 3, the standard System Usability Scale (SUS) Scoring Algorithm will be applied. Under this framework, the score for odd-numbered items (positive statements) is the scale position minus one, while for even-numbered items (negative statements), the score is five minus the scale position. The sum of these calculated values is then multiplied by 2.5 to convert the final usability score to a standardized scale ranging from 0 to 100\. The resulting scores will be mapped against established adjective rating scales to mathematically determine the application's overall user experience and systemic viability.
+For evaluating the game's overall usability in terms of playability and educational value during final phase to answer RQ3, the data gathered from the composite instrument will be quantified using a standard 5-point Likert scale. Descriptive statistics, specifically the weighted mean and standard deviation, will be calculated for both the GUESS and EGameFlow subscale. The resulting means will then be mapped against established descriptive rating scales to mathematically determine the game's overall usability in terms of playbility and educational value.
 
 Table 3: Likert-Scale Interpretation
 
-| Scale | Mean Score Range | Verbal Interpretation |
-| ----- | ---------------- |:--------------------- |
-| 5     | 4.21 \- 5.00     | Strongly Agree        |
-| 4     | 3.41 \- 4.00     | Agree                 |
-| 3     | 2.61 \- 3.40     | Neutral               |
-| 2     | 1.81 \- 2.60     | Disagree              |
-| 1     | 1.00 \- 1.80     | Strongly Disagree     |
+| Scale | Mean Score Range | Verbal Interpretation | Interpretation for SOP1 (Level of Awareness) | Interpretation for Playability | Interpretation for Educational Value |
+| ----- | ---------------- | --------------------- | -------------------------------------------- | ------------------------------ | ------------------------------------ |
+| 5     | 4.21 \- 5.00     | Strongly Agree        | Very High Awareness                          | Highly Playable                | Extremely High Educational Value     |
+| 4     | 3.41 \- 4.20     | Agree                 | High Awareness                               | Playable                       | High Educational Value               |
+| 3     | 2.61 \- 3.40     | Neutral               | Moderate Awareness                           | Moderately Playable            | Moderate Educational Value           |
+| 2     | 1.81 \- 2.60     | Disagree              | Low Awareness                                | Poorly Playable                | Low Educational Value                |
+| 1     | 1.00 \- 1.80     | Strongly Disagree     | No Awareness                                 | Not Playable                   | No Educational Value                 |
 
 Table 4 : Cronbach’s Alpha Reliability Interpretation (George & Mallery, 2003\)
 
@@ -273,16 +257,6 @@ Table 4 : Cronbach’s Alpha Reliability Interpretation (George & Mallery, 2003\
 | 0.60 \- 0.69                    | Questionable      |
 | 0.50 \- 0.59                    | Poor              |
 | Below 0.50                      | Unacceptable      |
-
-Table 5: System Usability Scale (SUS) Score Interpretation (Bangor et al., 2009\)
-
-| SUS Score Range | Acceptability Range |
-| --------------- |:------------------- |
-| 85.0 \- 100.0   | Acceptable          |
-| 70.0 \- 84.9    | Acceptable          |
-| 50.0 \- 69.9    | Marginal            |
-| 35.0 \- 49.9    | Unacceptable        |
-| Below 34.9      | Unacceptable        |
 
 ## **Design**
 
@@ -308,21 +282,21 @@ Players are equipped with both reactive and proactive intervention tools designe
 
 **Game Engine.** While the selected game engine must prioritize cross-platform compatibility, extensive documentation, and a robust development ecosystem, it currently remains open for exploration.
 
-**Programming Language and IDE.** The core disease simulation algorithm and game logic were implemented using C\#. Code authoring and debugging were conducted within Visual Studio Code (VSCode), selected for its lightweight footprint and extensibility. The C\# scripts were created under strict guidelines to be modular, scalable, and maintainable, ensuring decoupled components with a clear separation of concerns.
+**Programming Language and IDE.** The core disease simulation algorithm and game logic were implemented using a programming language balancing efficiency with readability, that is compatible with the chosen game engine. Code authoring and debugging were conducted using open-source IDEs or text editors under public licenses or domains. The game logic scripts were created under strict guidelines to be modular, scalable, and maintainable, ensuring decoupled components with a clear separation of concerns.
 
-**Visual Asset Production.** Graphical assets were developed utilizing open-source digital art software to establish the game's visual identity. LibreSprite was utilized for the creation of localized sprite assets and frame-by-frame animations. Krita was employed for generating high-resolution user interface elements, promotional graphics, and complex textures, ensuring visual clarity and responsive scaling on mobile displays.
+**Visual Asset Production.** Graphical assets, including characters, environments, and interface elements, were developed using open-source digital art software to establish the game's visual identity.
 
-**Version Control System**. Unity Version Control was implemented to manage the iterative Design and Development Research (DDR) lifecycle. Unity’s built-in version control system established a comprehensive audit of code modifications, algorithmic adjustments, and asset iterations throughout the mobile game’s development. It facilitated structured versioning, safeguarding project stability and maintaining the rigorous reproducibility standards required for academic research.
+**Version Control System**. Open-source, non-proprietary version control systems were used during development to manage the iterative Design and Development Research (DDR) lifecycle. The version control system was utilized to establish a comprehensive audit of code modifications, algorithmic adjustments, and asset iterations throughout the mobile game’s development. It also facilitated structured versioning, safeguarding project stability and maintaining the rigorous reproducibility standards required for academic research.
 
 **Target Platform and Build Configuration.** The build environment was explicitly configured to target the Android operating system. The integration of Android Software Development Kits (SDKs) and Native Development Kits (NDKs) ensured the mobile game’s accessibility for the participants of the study by being compatible across a diverse range of mobile hardware.
 
 ## **Test**
 
-The Test section documents the evaluation of the mobile game to ensure software quality, functional accuracy, and alignment with the study’s educational goals. This phase transitions from verifying the internal logic of the software to validating its performance with actual users. The testing process will follow a two-phase approach consisting of alpha testing and beta testing. Alpha testing focuses on internal evaluation conducted by the researchers and selected experts to identify technical issues, validate the functionality and performance of the algorithm, and assess the stability of the application. Beta testing will then be conducted with the target respondents to evaluate the application’s usability, engagement, content relevance, and overall user experience in an actual user environment.
+The Test section documents the evaluation of the mobile game to ensure software quality, functional accuracy, and alignment with the study’s educational goals. This phase transitions from verifying the internal logic of the software to validating its performance with actual users. The testing process will follow a two-phase approach consisting of an alpha and beta test. Alpha testing focuses on internal evaluation conducted by the researchers to identify technical issues, validate the functionality and performance of the algorithm, and assess the stability of the application. Beta testing will then be conducted with the target respondents to evaluate the application’s usability, in terms of playability and educational value, in an actual user environment.
 
-**Alpha Testing.** Focuses on evaluating the internal logic and technical stability of the mobile game within a controlled environment, ensuring core technical requirements are met before release. Participants in this stage are primarily agricultural experts on crop epidemiology. This includes unit and functional testing, testing of individual scripts and the core logic governing the disease dynamics. Validation of the epidemiological algorithm is also performed to guarantee the mobile game’s outputs align with scientifically accurate biological theory.
+**Alpha Testing.** Focuses on evaluating the internal logic and technical stability of the mobile game within a controlled environment, ensuring core technical requirements are met before release. Participants in this stage are primarily the researchers. Evaluation also includes unit and functional testing of individual scripts and the core logic governing the disease dynamics, and validation of the mathematical accuracy of the compartmental epidemiological implementation.
 
-**Beta Testing.** Focuses on validating the mobile game under real-world conditions with the target end-users. To evaluate the interface's accessibility, usability testing is performed using the System Usability Scale (SUS). This quantitative assessment determines if the application is intuitive enough for users with varying levels of technological literacy. By analyzing the SUS scores, the study identifies potential frustrations and pain points in navigation or gameplay, allowing for final refinements to the UI/UX design before the software is finalized.
+**Beta Testing.** Focuses on validating the mobile game under real-world conditions with the target end-users, specifically the participants of the study. To assess the mobile game’s overall usability in terms of its playability and educational value, testing is performed using the researcher-made Usability Evaluation tool. This quantitative assessment determines whether the mobile game application is intuitive and enjoyable enough for users with varying levels of technological literacy, while promoting familiarity with and learning of crop epidemiology concepts. By analyzing the Usability Evaluation scores, the study identifies potential frustrations and pain points in gameplay and the delivery of educational content, allowing for final refinements to the mobile game before deployment.
 
 ## **Ethical Consideration**
 
@@ -346,6 +320,8 @@ Bangor, A., Kortum, P., & Miller, J. (2009). *Determining what individual SUS sc
 
 Bashabsheh, M. (2025). A combined model for simulating the spatial dynamics of epidemic spread: Integrating stochastic compartmentalization and cellular automata approach. *International Journal of Mathematical, Engineering and Management Sciences, 10*(2), 522–536. [https://doi.org/10.33889/IJMEMS.2025.10.2.026](https://doi.org/10.33889/IJMEMS.2025.10.2.026)
 
+Barroga, E., Matanguihan, G. J., Furuta, A., Arima, M., Tsuchiya, S., Kawahara, C., Takamiya, Y., & Izumi, M. (2023). Conducting and writing quantitative and qualitative research. Journal of Korean Medical Science, 38(37), e291. https://doi.org/10.3346/jkms.2023.38.e291
+
 Bassanelli, S., Belliato, R., Bonetti, F., Vacondio, M., Gini, F., Zambotto, L., & Marconi, A. (2025). Gamify to persuade: A systematic review of gamified sustainable mobility. *Acta Psychologica, 252*, Article 104687\. [https://doi.org/10.1016/j.actpsy.2024.104687](https://doi.org/10.1016/j.actpsy.2024.104687)
 
 Benson, L., Davidson, R. S., Green, D. M., Hoyle, A., Hutchings, M. R., & Marion, G. (2021). When and why direct transmission models can be used for environmentally persistent pathogens. *PLOS Computational Biology, 17*(12), Article e1009652. [https://doi.org/10.1371/journal.pcbi.1009652](https://doi.org/10.1371/journal.pcbi.1009652)
@@ -355,6 +331,8 @@ Best, A., & Cunniffe, N. J. (2026). Fitting a lattice model with local and globa
 Boncu, Ș., Candel, O.-S., & Popa, N. L. (2022). Gameful green: A systematic review on the use of serious computer games and gamified mobile apps to foster pro-environmental information, attitudes and behaviors. *Sustainability, 14*(16), Article 10400\. [https://doi.org/10.3390/su141610400](https://doi.org/10.3390/su141610400)
 
 Braydent, B., & Fajar, M. (2025). Development of an educational farming simulation game to raise awareness of the food crisis. *BIO Web of Conferences, 197*, Article 02004\. [https://doi.org/10.1051/bioconf/202519702004](https://doi.org/10.1051/bioconf/202519702004)
+
+Budiu, R., & Moran, K. (2021, July 25). How many participants for quantitative usability studies: A summary of sample-size recommendations. Nielsen Norman Group. https://www.nngroup.com/articles/summary-quant-sample-sizes/
 
 Carlsson, M., Wittsten, J., & Söderberg-Nauclér, C. (2023). A note on variable susceptibility, the herd-immunity threshold and modeling of infectious diseases. *PLOS ONE, 18*(2), Article e0279454. [https://doi.org/10.1371/journal.pone.0279454](https://doi.org/10.1371/journal.pone.0279454)
 
@@ -379,6 +357,8 @@ George, D., & Mallery, P. (2003). *SPSS for Windows step by step: A simple guide
 González-Domínguez, E., Fedele, G., Salinari, F., & Rossi, V. (2020). A general model for the effect of crop management on plant disease epidemics at different scales of complexity. *Agronomy, 10*, Article 462\. [https://doi.org/10.3390/agronomy10040462](https://doi.org/10.3390/agronomy10040462)
 
 Gutiérrez-Jara, J. P., Vogt-Geisse, K., Correa, M. C. G., Vilches-Ponce, K., Pérez, L. M., & Chowell, G. (2023). Modeling the impact of agricultural mitigation measures on the spread of Sharka disease in sweet cherry orchards. *Plants, 12*(19), Article 3442\. [https://doi.org/10.3390/plants12193442](https://doi.org/10.3390/plants12193442)
+
+Hanis, N. M., Jamil, M. R. M., Yulu, J., Zalli, M. M. M., & Othman, M. S. (2025). Design and Development Research (DDR) approach in development of Value-Based Pedagogy Model in the context of a Multiracial Country. Journal of Curriculum and Teaching, 14(1), 248. https://doi.org/10.5430/jct.v14n1p248
 
 Huancas, F., Coronel, A., Vidal, R., Berres, S., & Brito, H. (2024). A mathematical model of flavescence dorée in grapevines by considering seasonality. *Mathematical Biosciences and Engineering, 21*(11), 7554–7581. [https://doi.org/10.3934/mbe.2024332](https://doi.org/10.3934/mbe.2024332)
 
@@ -405,6 +385,8 @@ Page, M. J., McKenzie, J. E., Bossuyt, P. M., Boutron, I., Hoffmann, T. C., Mulr
 Philippine Statistics Authority. (2025, September). *Quickstat: Negros Island Region*. Regional Statistical Services Office \- Negros Island Region. https://rssonir.psa.gov.ph/sites/default/files/publication/September-2025-Quikstat.pdf
 
 Shukla, M. P., Mishra, B. P., Mishra, D., Gupta, B. K., & Mishra, S. (2026). Assessment of awareness and knowledge dynamics of natural farming among agricultural students in Uttar Pradesh. *Journal of Experimental Agriculture International, 48*(2), 352–361. [https://doi.org/10.9734/jeai/2026/v48i24069](https://doi.org/10.9734/jeai/2026/v48i24069)
+
+Tenny, S., Brannan, J. M., & Brannan, G. D. (2022, September 18). Qualitative study. StatPearls - NCBI Bookshelf. https://www.ncbi.nlm.nih.gov/books/NBK470395/
 
 Tresna, S. T., Anggriani, N., & Supriatna, A. K. (2023). Study of mathematical modeling for plant disease transmission: A systematic literature review during 2012–2022. *Jambura Journal of Biomathematics, 4*(1), 1–14. [https://doi.org/10.34312/jjbm.v4i1.18443](https://doi.org/10.34312/jjbm.v4i1.18443)
 
