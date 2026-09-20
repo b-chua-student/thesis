@@ -247,7 +247,7 @@ For the qualitative data gathered from the agriculture and technical professiona
 
 For interpreting the quantitative responses from the researcher-made awareness assessment survey and the usability evaluation, the researchers will utilize descriptive statistical analysis, specifically the Mean and Standard Deviation. The mean will indicate the central tendency of the student responses, while the standard deviation will measure the data's variability, ensuring an accurate evaluation of the Likert scale data as required by standard research practices.
 
-For evaluating the game's overall usability in terms of playability and educational value during final phase, the data gathered from the composite instrument will be quantified using a standard 5-point Likert scale. Descriptive statistics, specifically the weighted mean and standard deviation, will be calculated for both the GUESS and EGameFlow subscale. The resulting means will then be mapped against establlished descriptive rating scales to mathematically determine the game's overall plyability and educational value.
+For evaluating the game's overall usability in terms of playability and educational value during final phase to answer RQ3, the data gathered from the composite instrument will be quantified using a standard 5-point Likert scale. Descriptive statistics, specifically the weighted mean and standard deviation, will be calculated for both the GUESS and EGameFlow subscale. The resulting means will then be mapped against established descriptive rating scales to mathematically determine the game's overall playbility and educational value.
 
 Table 3: Likert-Scale Interpretation
 
